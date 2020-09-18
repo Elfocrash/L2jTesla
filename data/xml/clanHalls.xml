@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<clanhall id="21" name="Fortress of Resistance" desc="Contestable Clan Hall" loc="Dion" grade="0" lease="0" defaultBid="0" />
+	<clanhall id="22" name="Moonstone Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="23" name="Onyx Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="24" name="Topaz Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="25" name="Ruby Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="26" name="Crystal Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="27" name="Onyx Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="28" name="Sapphire Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="29" name="Moonstone Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="30" name="Emerald Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="20000000" />
+	<clanhall id="31" name="Atramental Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="8000000" />
+	<clanhall id="32" name="Scarlet Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="8000000" />
+	<clanhall id="33" name="Viridian Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="8000000" />
+	<clanhall id="34" name="Devastated Castle" desc="Contestable Clan Hall" loc="Aden" grade="0" lease="0" defaultBid="0" />
+	<clanhall id="35" name="Bandit Stronghold" desc="Contestable Clan Hall" loc="Oren" grade="0" lease="0" defaultBid="0" />
+	<clanhall id="36" name="Golden Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="37" name="Silver Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="38" name="Mithril Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="39" name="Silver Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="40" name="Gold Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="41" name="Bronze Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="42" name="Golden Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="43" name="Silver Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="44" name="Mithril Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="45" name="Bronze Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="46" name="Silver Manor" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="47" name="Moonstone Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="48" name="Onyx Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="49" name="Emerald Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="50" name="Sapphire Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="51" name="Mont Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="52" name="Astaire Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="53" name="Aria Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="54" name="Yiana Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="55" name="Roien Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="56" name="Luna Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="57" name="Traban Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50000000" />
+	<clanhall id="58" name="Eisen Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50000000" />
+	<clanhall id="59" name="Heavy Metal Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50000000" />
+	<clanhall id="60" name="Molten Ore Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50000000" />
+	<clanhall id="61" name="Titan Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50000000" />
+	<clanhall id="62" name="Rainbow Springs" desc="Contestable Clan Hall" loc="Goddard" grade="0" lease="0" defaultBid="0" />
+	<clanhall id="63" name="Beast Farm" desc="Contestable Clan Hall" loc="Rune" grade="0" lease="0" defaultBid="0" />
+	<clanhall id="64" name="Fortress of the Dead" desc="Contestable Clan Hall" loc="Rune" grade="0" lease="0" defaultBid="0" />
+</list>

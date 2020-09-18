@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!-- This file contains all special info about seeds. -->
+<list>
+	<seed id="5016" level="10" cropId="5073" matureId="5103" reward1="1864" reward2="1878" castleId="1" isAlternative="0" seedsLimit="8100" cropsLimit="9000"/> <!-- Seed: Dark Coda -->
+	<seed id="5017" level="13" cropId="5068" matureId="5098" reward1="1865" reward2="1879" castleId="1" isAlternative="0" seedsLimit="8100" cropsLimit="9000"/> <!-- Seed: Red Coda -->
+	<seed id="5018" level="16" cropId="5065" matureId="5095" reward1="1866" reward2="1874" castleId="1" isAlternative="0" seedsLimit="8100" cropsLimit="9000"/> <!-- Seed: Chilly Coda -->
+	<seed id="5019" level="19" cropId="5067" matureId="5097" reward1="1867" reward2="1894" castleId="1" isAlternative="0" seedsLimit="4050" cropsLimit="4500"/> <!-- Seed: Blue Coda -->
+	<seed id="5020" level="22" cropId="5069" matureId="5099" reward1="1868" reward2="1876" castleId="1" isAlternative="0" seedsLimit="2025" cropsLimit="2250"/> <!-- Seed: Golden Coda -->
+	<seed id="5021" level="25" cropId="5071" matureId="5101" reward1="1869" reward2="1895" castleId="1" isAlternative="0" seedsLimit="1350" cropsLimit="1500"/> <!-- Seed: Lute Coda -->
+	<seed id="5022" level="28" cropId="5070" matureId="5100" reward1="1870" reward2="1877" castleId="1" isAlternative="0" seedsLimit="2025" cropsLimit="2250"/> <!-- Seed: Desert Coda -->
+	<seed id="5023" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="1" isAlternative="0" seedsLimit="810" cropsLimit="900"/> <!-- Seed: Blue Cobol -->
+	<seed id="5024" level="19" cropId="5067" matureId="5097" reward1="1867" reward2="1894" castleId="2" isAlternative="0" seedsLimit="4194" cropsLimit="4660"/> <!-- Seed: Blue Coda -->
+	<seed id="5025" level="22" cropId="5069" matureId="5099" reward1="1868" reward2="1876" castleId="2" isAlternative="0" seedsLimit="2097" cropsLimit="2330"/> <!-- Seed: Golden Coda -->
+	<seed id="5026" level="25" cropId="5071" matureId="5101" reward1="1869" reward2="1895" castleId="2" isAlternative="0" seedsLimit="1398" cropsLimit="1553"/> <!-- Seed: Lute Coda -->
+	<seed id="5027" level="28" cropId="5070" matureId="5100" reward1="1870" reward2="1877" castleId="2" isAlternative="0" seedsLimit="2097" cropsLimit="2330"/> <!-- Seed: Desert Coda -->
+	<seed id="5028" level="31" cropId="5078" matureId="5108" reward1="1871" reward2="4042" castleId="2" isAlternative="0" seedsLimit="2097" cropsLimit="2330"/> <!-- Seed: Red Cobol -->
+	<seed id="5029" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="2" isAlternative="0" seedsLimit="1677" cropsLimit="1864"/> <!-- Seed: Chilly Cobol -->
+	<seed id="5030" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="2" isAlternative="0" seedsLimit="838" cropsLimit="932"/> <!-- Seed: Thorn Cobol -->
+	<seed id="5031" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="2" isAlternative="0" seedsLimit="838" cropsLimit="932"/> <!-- Seed: Golden Cobol -->
+	<seed id="5032" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="2" isAlternative="0" seedsLimit="838" cropsLimit="932"/> <!-- Seed: Great Cobol -->
+	<seed id="5033" level="31" cropId="5078" matureId="5108" reward1="1871" reward2="4042" castleId="3" isAlternative="0" seedsLimit="2250" cropsLimit="2500"/> <!-- Seed: Red Cobol -->
+	<seed id="5034" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="3" isAlternative="0" seedsLimit="1800" cropsLimit="2000"/> <!-- Seed: Chilly Cobol -->
+	<seed id="5035" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Blue Cobol -->
+	<seed id="5036" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Thorn Cobol -->
+	<seed id="5037" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Golden Cobol -->
+	<seed id="5038" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Great Cobol -->
+	<seed id="5039" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="3" isAlternative="0" seedsLimit="1125" cropsLimit="1250"/> <!-- Seed: Red Codran -->
+	<seed id="5040" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Twin Codran -->
+	<seed id="5041" level="64" cropId="5090" matureId="5120" reward1="1873" reward2="5550" castleId="3" isAlternative="0" seedsLimit="450" cropsLimit="500"/> <!-- Seed: Desert Codran -->
+	<seed id="5042" level="10" cropId="5073" matureId="5103" reward1="1864" reward2="1878" castleId="4" isAlternative="0" seedsLimit="7200" cropsLimit="8000"/> <!-- Seed: Dark Coda -->
+	<seed id="5043" level="13" cropId="5068" matureId="5098" reward1="1865" reward2="1879" castleId="4" isAlternative="0" seedsLimit="7200" cropsLimit="8000"/> <!-- Seed: Red Coda -->
+	<seed id="5044" level="19" cropId="5067" matureId="5097" reward1="1867" reward2="1894" castleId="4" isAlternative="0" seedsLimit="3600" cropsLimit="4000"/> <!-- Seed: Blue Coda -->
+	<seed id="5045" level="31" cropId="5078" matureId="5108" reward1="1871" reward2="4042" castleId="4" isAlternative="0" seedsLimit="1800" cropsLimit="2000"/> <!-- Seed: Red Cobol -->
+	<seed id="5046" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="4" isAlternative="0" seedsLimit="1440" cropsLimit="1600"/> <!-- Seed: Chilly Cobol -->
+	<seed id="5047" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Blue Cobol -->
+	<seed id="5048" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Thorn Cobol -->
+	<seed id="5049" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Sea Codran -->
+	<seed id="5050" level="52" cropId="5085" matureId="5115" reward1="1869" reward2="4041" castleId="4" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Chilly Codran -->
+	<seed id="5051" level="55" cropId="5087" matureId="5117" reward1="1870" reward2="1882" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Blue Codran -->
+	<seed id="5052" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Twin Codran -->
+	<seed id="5053" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Thorn Cobol -->
+	<seed id="5054" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Golden Cobol -->
+	<seed id="5055" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Great Cobol -->
+	<seed id="5056" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="5" isAlternative="0" seedsLimit="1680" cropsLimit="1867"/> <!-- Seed: Red Codran -->
+	<seed id="5057" level="52" cropId="5085" matureId="5115" reward1="1869" reward2="4041" castleId="5" isAlternative="0" seedsLimit="1680" cropsLimit="1867"/> <!-- Seed: Chilly Codran -->
+	<seed id="5058" level="55" cropId="5087" matureId="5117" reward1="1870" reward2="1882" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Blue Codran -->
+	<seed id="5059" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Twin Codran -->
+	<seed id="5060" level="61" cropId="5094" matureId="5124" reward1="1872" reward2="1881" castleId="5" isAlternative="0" seedsLimit="896" cropsLimit="996"/> <!-- Seed: Great Codran -->
+	<seed id="5061" level="64" cropId="5090" matureId="5120" reward1="1873" reward2="5550" castleId="5" isAlternative="0" seedsLimit="672" cropsLimit="747"/> <!-- Seed: Desert Codran -->
+	<seed id="5221" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="6" isAlternative="0" seedsLimit="2592" cropsLimit="2880"/> <!-- Seed: Chilly Cobol -->
+	<seed id="5222" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="6" isAlternative="0" seedsLimit="1296" cropsLimit="1440"/> <!-- Seed: Blue Cobol -->
+	<seed id="5223" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="6" isAlternative="0" seedsLimit="1296" cropsLimit="1440"/> <!-- Seed: Thorn Cobol -->
+	<seed id="5224" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="6" isAlternative="0" seedsLimit="1296" cropsLimit="1440"/> <!-- Seed: Golden Cobol -->
+	<seed id="5225" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="6" isAlternative="0" seedsLimit="1296" cropsLimit="1440"/> <!-- Seed: Great Cobol -->
+	<seed id="5226" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="6" isAlternative="0" seedsLimit="1620" cropsLimit="1800"/> <!-- Seed: Red Codran -->
+	<seed id="5227" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="6" isAlternative="0" seedsLimit="1296" cropsLimit="1440"/> <!-- Seed: Sea Codran -->
+	<seed id="5650" level="10" cropId="5818" matureId="5838" reward1="1864" reward2="1878" castleId="1" isAlternative="1" seedsLimit="22500" cropsLimit="2250"/> <!-- Alternative Dark Coda Seed -->
+	<seed id="5651" level="13" cropId="5819" matureId="5839" reward1="1865" reward2="1879" castleId="1" isAlternative="1" seedsLimit="22500" cropsLimit="2250"/> <!-- Alternative Red Coda Seed -->
+	<seed id="5652" level="16" cropId="5820" matureId="5840" reward1="1866" reward2="1874" castleId="1" isAlternative="1" seedsLimit="22500" cropsLimit="2250"/> <!-- Alternative Chilly Coda Seed -->
+	<seed id="5653" level="19" cropId="5821" matureId="5841" reward1="1867" reward2="1894" castleId="1" isAlternative="1" seedsLimit="11250" cropsLimit="1125"/> <!-- Alternative Blue Coda Seed -->
+	<seed id="5654" level="22" cropId="5822" matureId="5842" reward1="1868" reward2="1876" castleId="1" isAlternative="1" seedsLimit="5625" cropsLimit="562"/> <!-- Alternative Golden Coda Seed -->
+	<seed id="5655" level="25" cropId="5823" matureId="5843" reward1="1869" reward2="1895" castleId="1" isAlternative="1" seedsLimit="3750" cropsLimit="375"/> <!-- Alternative Lute Coda Seed -->
+	<seed id="5656" level="28" cropId="5824" matureId="5844" reward1="1870" reward2="1877" castleId="1" isAlternative="1" seedsLimit="5625" cropsLimit="562"/> <!-- Alternative Desert Coda Seed -->
+	<seed id="5657" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="1" isAlternative="1" seedsLimit="2250" cropsLimit="225"/> <!-- Alternative Blue Cobol Seed -->
+	<seed id="5658" level="19" cropId="5821" matureId="5841" reward1="1867" reward2="1894" castleId="2" isAlternative="1" seedsLimit="11650" cropsLimit="1165"/> <!-- Alternative Blue Coda Seed -->
+	<seed id="5659" level="22" cropId="5822" matureId="5842" reward1="1868" reward2="1876" castleId="2" isAlternative="1" seedsLimit="5825" cropsLimit="582"/> <!-- Alternative Golden Coda Seed -->
+	<seed id="5660" level="25" cropId="5823" matureId="5843" reward1="1869" reward2="1895" castleId="2" isAlternative="1" seedsLimit="3883" cropsLimit="388"/> <!-- Alternative Lute Coda Seed -->
+	<seed id="5661" level="28" cropId="5824" matureId="5844" reward1="1870" reward2="1877" castleId="2" isAlternative="1" seedsLimit="5825" cropsLimit="582"/> <!-- Alternative Desert Coda Seed -->
+	<seed id="5662" level="31" cropId="5825" matureId="5845" reward1="1871" reward2="4042" castleId="2" isAlternative="1" seedsLimit="5825" cropsLimit="582"/> <!-- Alternative Red Cobol Seed -->
+	<seed id="5663" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="2" isAlternative="1" seedsLimit="4660" cropsLimit="466"/> <!-- Alternative Chilly Cobol Seed -->
+	<seed id="5664" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="2" isAlternative="1" seedsLimit="2330" cropsLimit="233"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="5665" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="2" isAlternative="1" seedsLimit="2330" cropsLimit="233"/> <!-- Alternative Golden Cobol Seed -->
+	<seed id="5666" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="2" isAlternative="1" seedsLimit="2912" cropsLimit="291"/> <!-- Alternative Great Cobol Seed -->
+	<seed id="5667" level="31" cropId="5825" matureId="5845" reward1="1871" reward2="4042" castleId="3" isAlternative="1" seedsLimit="6250" cropsLimit="625"/> <!-- Alternative Red Cobol Seed -->
+	<seed id="5668" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="3" isAlternative="1" seedsLimit="5000" cropsLimit="500"/> <!-- Alternative Chilly Cobol Seed -->
+	<seed id="5669" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Alternative Blue Cobol Seed -->
+	<seed id="5670" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="5671" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Alternative Golden Cobol Seed -->
+	<seed id="5672" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="3" isAlternative="1" seedsLimit="3125" cropsLimit="312"/> <!-- Alternative Great Cobol Seed -->
+	<seed id="5673" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="3" isAlternative="1" seedsLimit="3125" cropsLimit="312"/> <!-- Alternative Red Codran Seed -->
+	<seed id="5674" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Alternative Twin Codran Seed -->
+	<seed id="5675" level="64" cropId="5837" matureId="5857" reward1="1873" reward2="5550" castleId="3" isAlternative="1" seedsLimit="1250" cropsLimit="125"/> <!-- Alternative Desert Codran Seed -->
+	<seed id="5676" level="10" cropId="5818" matureId="5838" reward1="1864" reward2="1878" castleId="4" isAlternative="1" seedsLimit="20000" cropsLimit="2000"/> <!-- Alternative Dark Coda Seed -->
+	<seed id="5677" level="13" cropId="5819" matureId="5839" reward1="1865" reward2="1879" castleId="4" isAlternative="1" seedsLimit="20000" cropsLimit="2000"/> <!-- Alternative Red Coda Seed -->
+	<seed id="5678" level="19" cropId="5821" matureId="5841" reward1="1867" reward2="1894" castleId="4" isAlternative="1" seedsLimit="10000" cropsLimit="1000"/> <!-- Alternative Blue Coda Seed -->
+	<seed id="5679" level="31" cropId="5825" matureId="5845" reward1="1871" reward2="4042" castleId="4" isAlternative="1" seedsLimit="5000" cropsLimit="500"/> <!-- Alternative Red Cobol Seed -->
+	<seed id="5680" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="4" isAlternative="1" seedsLimit="4000" cropsLimit="400"/> <!-- Alternative Chilly Cobol Seed -->
+	<seed id="5681" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Alternative Blue Cobol Seed -->
+	<seed id="5682" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="5683" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Alternative Sea Codran Seed -->
+	<seed id="5684" level="52" cropId="5833" matureId="5853" reward1="1869" reward2="4041" castleId="4" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Alternative Chilly Codran Seed -->
+	<seed id="5685" level="55" cropId="5834" matureId="5854" reward1="1870" reward2="1882" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Alternative Blue Codran Seed -->
+	<seed id="5686" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Alternative Twin Codran Seed -->
+	<seed id="5687" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="5" isAlternative="1" seedsLimit="3735" cropsLimit="373"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="5688" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="5" isAlternative="1" seedsLimit="3735" cropsLimit="373"/> <!-- Alternative Golden Cobol Seed -->
+	<seed id="5689" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="5" isAlternative="1" seedsLimit="4668" cropsLimit="466"/> <!-- Alternative Great Cobol Seed -->
+	<seed id="5690" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="5" isAlternative="1" seedsLimit="4668" cropsLimit="466"/> <!-- Alternative Red Codran Seed -->
+	<seed id="5691" level="52" cropId="5833" matureId="5853" reward1="1869" reward2="4041" castleId="5" isAlternative="1" seedsLimit="4668" cropsLimit="466"/> <!-- Alternative Chilly Codran Seed -->
+	<seed id="5692" level="55" cropId="5834" matureId="5854" reward1="1870" reward2="1882" castleId="5" isAlternative="1" seedsLimit="3735" cropsLimit="373"/> <!-- Alternative Blue Codran Seed -->
+	<seed id="5693" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="5" isAlternative="1" seedsLimit="3735" cropsLimit="373"/> <!-- Alternative Twin Codran Seed -->
+	<seed id="5694" level="61" cropId="5836" matureId="5856" reward1="1872" reward2="1881" castleId="5" isAlternative="1" seedsLimit="2490" cropsLimit="249"/> <!-- Alternative Great Codran Seed -->
+	<seed id="5695" level="64" cropId="5837" matureId="5857" reward1="1873" reward2="5550" castleId="5" isAlternative="1" seedsLimit="1867" cropsLimit="186"/> <!-- Alternative Desert Codran Seed -->
+	<seed id="5696" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="6" isAlternative="1" seedsLimit="7200" cropsLimit="720"/> <!-- Alternative Chilly Cobol Seed -->
+	<seed id="5697" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="6" isAlternative="1" seedsLimit="3600" cropsLimit="360"/> <!-- Alternative Blue Cobol Seed -->
+	<seed id="5698" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="6" isAlternative="1" seedsLimit="3600" cropsLimit="360"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="5699" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="6" isAlternative="1" seedsLimit="3600" cropsLimit="360"/> <!-- Alternative Golden Cobol Seed -->
+	<seed id="5700" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="6" isAlternative="1" seedsLimit="4500" cropsLimit="450"/> <!-- Alternative Great Cobol Seed -->
+	<seed id="5701" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="6" isAlternative="1" seedsLimit="4500" cropsLimit="450"/> <!-- Alternative Red Codran Seed -->
+	<seed id="5702" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="6" isAlternative="1" seedsLimit="3600" cropsLimit="360"/> <!-- Alternative Sea Codran Seed -->
+	<seed id="6727" level="85" cropId="6554" matureId="6568" reward1="5549" reward2="5550" castleId="7" isAlternative="1" seedsLimit="208" cropsLimit="90"/> <!-- Seed: Alternative Great Coba -->
+	<seed id="6728" level="79" cropId="6552" matureId="6566" reward1="4044" reward2="4042" castleId="4" isAlternative="1" seedsLimit="111" cropsLimit="44"/> <!-- Seed: Alternative Sea Coba -->
+	<seed id="6729" level="79" cropId="6552" matureId="6566" reward1="4044" reward2="4042" castleId="5" isAlternative="1" seedsLimit="207" cropsLimit="83"/> <!-- Seed: Alternative Sea Coba -->
+	<seed id="6730" level="79" cropId="6552" matureId="6566" reward1="4044" reward2="4042" castleId="7" isAlternative="1" seedsLimit="277" cropsLimit="111"/> <!-- Seed: Alternative Sea Coba -->
+	<seed id="6731" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="3" isAlternative="1" seedsLimit="250" cropsLimit="83"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="6732" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="5" isAlternative="1" seedsLimit="373" cropsLimit="124"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="6733" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="6" isAlternative="1" seedsLimit="360" cropsLimit="120"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="6734" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="8" isAlternative="1" seedsLimit="500" cropsLimit="166"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="6735" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="8" isAlternative="1" seedsLimit="500" cropsLimit="166"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="6736" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="4" isAlternative="1" seedsLimit="133" cropsLimit="50"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="6737" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="5" isAlternative="1" seedsLimit="249" cropsLimit="93"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="6738" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="6" isAlternative="1" seedsLimit="240" cropsLimit="90"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="6739" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="7" isAlternative="1" seedsLimit="333" cropsLimit="125"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="6740" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="8" isAlternative="1" seedsLimit="333" cropsLimit="125"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="6741" level="82" cropId="6553" matureId="6567" reward1="1885" reward2="1893" castleId="7" isAlternative="1" seedsLimit="250" cropsLimit="100"/> <!-- Seed: Alternative Twin Coba -->
+	<seed id="6742" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="1" isAlternative="1" seedsLimit="281" cropsLimit="90"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="6743" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="3" isAlternative="1" seedsLimit="312" cropsLimit="100"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="6744" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="5" isAlternative="1" seedsLimit="466" cropsLimit="149"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="6745" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="7" isAlternative="1" seedsLimit="625" cropsLimit="200"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="6746" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="8" isAlternative="1" seedsLimit="625" cropsLimit="200"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="6747" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="3" isAlternative="1" seedsLimit="192" cropsLimit="71"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6748" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="4" isAlternative="1" seedsLimit="153" cropsLimit="57"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6749" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="5" isAlternative="1" seedsLimit="287" cropsLimit="106"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6750" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="7" isAlternative="1" seedsLimit="384" cropsLimit="142"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6751" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="7" isAlternative="1" seedsLimit="384" cropsLimit="142"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6752" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="8" isAlternative="1" seedsLimit="384" cropsLimit="142"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="6753" level="85" cropId="6547" matureId="6561" reward1="5549" reward2="5550" castleId="7" isAlternative="0" seedsLimit="75" cropsLimit="363"/> <!-- Seed: Great Coba -->
+	<seed id="6754" level="79" cropId="6545" matureId="6559" reward1="4044" reward2="4042" castleId="4" isAlternative="0" seedsLimit="40" cropsLimit="177"/> <!-- Seed: Sea Coba -->
+	<seed id="6755" level="79" cropId="6545" matureId="6559" reward1="4044" reward2="4042" castleId="5" isAlternative="0" seedsLimit="74" cropsLimit="332"/> <!-- Seed: Sea Coba -->
+	<seed id="6756" level="79" cropId="6545" matureId="6559" reward1="4044" reward2="4042" castleId="7" isAlternative="0" seedsLimit="100" cropsLimit="444"/> <!-- Seed: Sea Coba -->
+	<seed id="6757" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="3" isAlternative="0" seedsLimit="90" cropsLimit="333"/> <!-- Seed: Red Coba -->
+	<seed id="6758" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="5" isAlternative="0" seedsLimit="134" cropsLimit="498"/> <!-- Seed: Red Coba -->
+	<seed id="6759" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="6" isAlternative="0" seedsLimit="129" cropsLimit="480"/> <!-- Seed: Red Coba -->
+	<seed id="6760" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="7" isAlternative="0" seedsLimit="180" cropsLimit="666"/> <!-- Seed: Red Coba -->
+	<seed id="6761" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="8" isAlternative="0" seedsLimit="180" cropsLimit="666"/> <!-- Seed: Red Coba -->
+	<seed id="6762" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="4" isAlternative="0" seedsLimit="48" cropsLimit="200"/> <!-- Seed: Desert Coba -->
+	<seed id="6763" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="5" isAlternative="0" seedsLimit="89" cropsLimit="373"/> <!-- Seed: Desert Coba -->
+	<seed id="6764" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="6" isAlternative="0" seedsLimit="86" cropsLimit="360"/> <!-- Seed: Desert Coba -->
+	<seed id="6765" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="7" isAlternative="0" seedsLimit="120" cropsLimit="500"/> <!-- Seed: Desert Coba -->
+	<seed id="6766" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="8" isAlternative="0" seedsLimit="120" cropsLimit="500"/> <!-- Seed: Desert Coba -->
+	<seed id="6767" level="82" cropId="6546" matureId="6560" reward1="1885" reward2="1893" castleId="7" isAlternative="0" seedsLimit="90" cropsLimit="400"/> <!-- Seed: Twin Coba -->
+	<seed id="6768" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="1" isAlternative="0" seedsLimit="101" cropsLimit="360"/> <!-- Seed: Blue Coba -->
+	<seed id="6769" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="3" isAlternative="0" seedsLimit="112" cropsLimit="400"/> <!-- Seed: Blue Coba -->
+	<seed id="6770" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="5" isAlternative="0" seedsLimit="168" cropsLimit="597"/> <!-- Seed: Blue Coba -->
+	<seed id="6771" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="7" isAlternative="0" seedsLimit="225" cropsLimit="800"/> <!-- Seed: Blue Coba -->
+	<seed id="6772" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="8" isAlternative="0" seedsLimit="225" cropsLimit="800"/> <!-- Seed: Blue Coba -->
+	<seed id="6773" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="3" isAlternative="0" seedsLimit="69" cropsLimit="285"/> <!-- Seed: Golden Coba -->
+	<seed id="6774" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="4" isAlternative="0" seedsLimit="55" cropsLimit="228"/> <!-- Seed: Golden Coba -->
+	<seed id="6775" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="5" isAlternative="0" seedsLimit="103" cropsLimit="426"/> <!-- Seed: Golden Coba -->
+	<seed id="6776" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="6" isAlternative="0" seedsLimit="99" cropsLimit="411"/> <!-- Seed: Golden Coba -->
+	<seed id="6777" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="7" isAlternative="0" seedsLimit="138" cropsLimit="571"/> <!-- Seed: Golden Coba -->
+	<seed id="6778" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="8" isAlternative="0" seedsLimit="138" cropsLimit="571"/> <!-- Seed: Golden Coba -->
+	<seed id="7016" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="2" isAlternative="0" seedsLimit="838" cropsLimit="932"/> <!-- Seed: Blue Cobol -->
+	<seed id="7017" level="55" cropId="5087" matureId="5117" reward1="1870" reward2="1882" castleId="1" isAlternative="0" seedsLimit="810" cropsLimit="900"/> <!-- Seed: Blue Codran -->
+	<seed id="7018" level="55" cropId="5087" matureId="5117" reward1="1870" reward2="1882" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Blue Codran -->
+	<seed id="7019" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="1" isAlternative="0" seedsLimit="1620" cropsLimit="1800"/> <!-- Seed: Chilly Cobol -->
+	<seed id="7020" level="16" cropId="5065" matureId="5095" reward1="1866" reward2="1874" castleId="4" isAlternative="0" seedsLimit="7200" cropsLimit="8000"/> <!-- Seed: Chilly Coda -->
+	<seed id="7021" level="52" cropId="5085" matureId="5115" reward1="1869" reward2="4041" castleId="1" isAlternative="0" seedsLimit="1012" cropsLimit="1125"/> <!-- Seed: Chilly Codran -->
+	<seed id="7022" level="52" cropId="5085" matureId="5115" reward1="1869" reward2="4041" castleId="3" isAlternative="0" seedsLimit="1125" cropsLimit="1250"/> <!-- Seed: Chilly Codran -->
+	<seed id="7023" level="64" cropId="5090" matureId="5120" reward1="1873" reward2="5550" castleId="1" isAlternative="0" seedsLimit="405" cropsLimit="450"/> <!-- Seed: Desert Codran -->
+	<seed id="7024" level="64" cropId="5090" matureId="5120" reward1="1873" reward2="5550" castleId="7" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Desert Codran -->
+	<seed id="7025" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Golden Cobol -->
+	<seed id="7026" level="22" cropId="5069" matureId="5099" reward1="1868" reward2="1876" castleId="4" isAlternative="0" seedsLimit="1800" cropsLimit="2000"/> <!-- Seed: Golden Coda -->
+	<seed id="7027" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="4" isAlternative="0" seedsLimit="720" cropsLimit="800"/> <!-- Seed: Great Cobol -->
+	<seed id="7028" level="61" cropId="5094" matureId="5124" reward1="1872" reward2="1881" castleId="1" isAlternative="0" seedsLimit="540" cropsLimit="600"/> <!-- Seed: Great Codran -->
+	<seed id="7029" level="61" cropId="5094" matureId="5124" reward1="1872" reward2="1881" castleId="3" isAlternative="0" seedsLimit="600" cropsLimit="666"/> <!-- Seed: Great Codran -->
+	<seed id="7030" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="2" isAlternative="1" seedsLimit="2330" cropsLimit="233"/> <!-- Seed: Alternative Blue Cobol -->
+	<seed id="7031" level="55" cropId="5834" matureId="5854" reward1="1870" reward2="1882" castleId="1" isAlternative="1" seedsLimit="2250" cropsLimit="225"/> <!-- Seed: Alternative Blue Codran -->
+	<seed id="7032" level="55" cropId="5834" matureId="5854" reward1="1870" reward2="1882" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Blue Codran -->
+	<seed id="7033" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="1" isAlternative="1" seedsLimit="4500" cropsLimit="450"/> <!-- Seed: Alternative Chilly Cobol -->
+	<seed id="7034" level="16" cropId="5820" matureId="5840" reward1="1866" reward2="1874" castleId="4" isAlternative="1" seedsLimit="20000" cropsLimit="2000"/> <!-- Seed: Alternative Chilly Coda -->
+	<seed id="7035" level="52" cropId="5833" matureId="5853" reward1="1869" reward2="4041" castleId="1" isAlternative="1" seedsLimit="2812" cropsLimit="281"/> <!-- Seed: Alternative Chilly Codran -->
+	<seed id="7036" level="52" cropId="5833" matureId="5853" reward1="1869" reward2="4041" castleId="3" isAlternative="1" seedsLimit="3125" cropsLimit="312"/> <!-- Seed: Alternative Chilly Codran -->
+	<seed id="7037" level="64" cropId="5837" matureId="5857" reward1="1873" reward2="5550" castleId="1" isAlternative="1" seedsLimit="1125" cropsLimit="112"/> <!-- Seed: Alternative Desert Codran -->
+	<seed id="7038" level="64" cropId="5837" matureId="5857" reward1="1873" reward2="5550" castleId="7" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Desert Codran -->
+	<seed id="7039" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="4" isAlternative="1" seedsLimit="2000" cropsLimit="200"/> <!-- Seed: Alternative Golden Cobol -->
+	<seed id="7040" level="22" cropId="5822" matureId="5842" reward1="1868" reward2="1876" castleId="4" isAlternative="1" seedsLimit="5000" cropsLimit="500"/> <!-- Seed: Alternative Golden Coda -->
+	<seed id="7041" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="4" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Great Cobol -->
+	<seed id="7042" level="61" cropId="5836" matureId="5856" reward1="1872" reward2="1881" castleId="1" isAlternative="1" seedsLimit="1500" cropsLimit="150"/> <!-- Seed: Alternative Great Codran -->
+	<seed id="7043" level="61" cropId="5836" matureId="5856" reward1="1872" reward2="1881" castleId="3" isAlternative="1" seedsLimit="1666" cropsLimit="166"/> <!-- Seed: Alternative Great Codran -->
+	<seed id="7044" level="31" cropId="5825" matureId="5845" reward1="1871" reward2="4042" castleId="1" isAlternative="1" seedsLimit="5625" cropsLimit="562"/> <!-- Seed: Alternative Red Cobol -->
+	<seed id="7045" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="2" isAlternative="1" seedsLimit="2912" cropsLimit="291"/> <!-- Seed: Alternative Red Codran -->
+	<seed id="7046" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="4" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Red Codran -->
+	<seed id="7047" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="2" isAlternative="1" seedsLimit="2330" cropsLimit="233"/> <!-- Seed: Alternative Sea Codran -->
+	<seed id="7048" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="3" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Sea Codran -->
+	<seed id="7049" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="5" isAlternative="1" seedsLimit="3735" cropsLimit="373"/> <!-- Seed: Alternative Sea Codran -->
+	<seed id="7050" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="1" isAlternative="1" seedsLimit="2250" cropsLimit="225"/> <!-- Seed: Alternative Twin Codran -->
+	<seed id="7051" level="31" cropId="5078" matureId="5108" reward1="1871" reward2="4042" castleId="1" isAlternative="0" seedsLimit="2025" cropsLimit="2250"/> <!-- Seed: Red Cobol -->
+	<seed id="7052" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="2" isAlternative="0" seedsLimit="1048" cropsLimit="1165"/> <!-- Seed: Red Codran -->
+	<seed id="7053" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="4" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Red Codran -->
+	<seed id="7054" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="2" isAlternative="0" seedsLimit="838" cropsLimit="932"/> <!-- Seed: Sea Codran -->
+	<seed id="7055" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="3" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Sea Codran -->
+	<seed id="7056" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="5" isAlternative="0" seedsLimit="1344" cropsLimit="1494"/> <!-- Seed: Sea Codran -->
+	<seed id="7057" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="1" isAlternative="0" seedsLimit="810" cropsLimit="900"/> <!-- Seed: Twin Codran -->
+	<seed id="8223" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="8" isAlternative="0" seedsLimit="1800" cropsLimit="2000"/> <!-- Seed: Twin Codran -->
+	<seed id="8224" level="61" cropId="5094" matureId="5124" reward1="1872" reward2="1881" castleId="8" isAlternative="0" seedsLimit="1200" cropsLimit="1333"/> <!-- Seed: Great Codran -->
+	<seed id="8225" level="64" cropId="5090" matureId="5120" reward1="1873" reward2="5550" castleId="8" isAlternative="0" seedsLimit="900" cropsLimit="1000"/> <!-- Seed: Desert Codran -->
+	<seed id="8226" level="67" cropId="6541" matureId="6555" reward1="1894" reward2="4039" castleId="8" isAlternative="0" seedsLimit="225" cropsLimit="800"/> <!-- Seed: Blue Coba -->
+	<seed id="8227" level="70" cropId="6542" matureId="6556" reward1="1888" reward2="4040" castleId="8" isAlternative="0" seedsLimit="180" cropsLimit="666"/> <!-- Seed: Red Coba -->
+	<seed id="8228" level="73" cropId="6543" matureId="6557" reward1="1887" reward2="4041" castleId="8" isAlternative="0" seedsLimit="138" cropsLimit="571"/> <!-- Seed: Golden Coba -->
+	<seed id="8229" level="76" cropId="6544" matureId="6558" reward1="4043" reward2="1890" castleId="8" isAlternative="0" seedsLimit="120" cropsLimit="500"/> <!-- Seed: Desert Coba -->
+	<seed id="8230" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="8" isAlternative="1" seedsLimit="5000" cropsLimit="500"/> <!-- Seed: Alternative Twin Codran -->
+	<seed id="8231" level="61" cropId="5836" matureId="5856" reward1="1872" reward2="1881" castleId="8" isAlternative="1" seedsLimit="3333" cropsLimit="333"/> <!-- Seed: Alternative Great Codran -->
+	<seed id="8232" level="64" cropId="5837" matureId="5857" reward1="1873" reward2="5550" castleId="8" isAlternative="1" seedsLimit="2500" cropsLimit="250"/> <!-- Seed: Alternative Desert Codran -->
+	<seed id="8233" level="67" cropId="6548" matureId="6562" reward1="1894" reward2="4039" castleId="8" isAlternative="1" seedsLimit="625" cropsLimit="200"/> <!-- Seed: Alternative Blue Coba -->
+	<seed id="8234" level="70" cropId="6549" matureId="6563" reward1="1888" reward2="4040" castleId="8" isAlternative="1" seedsLimit="500" cropsLimit="166"/> <!-- Seed: Alternative Red Coba -->
+	<seed id="8235" level="73" cropId="6550" matureId="6564" reward1="1887" reward2="4041" castleId="8" isAlternative="1" seedsLimit="384" cropsLimit="142"/> <!-- Seed: Alternative Golden Coba -->
+	<seed id="8236" level="76" cropId="6551" matureId="6565" reward1="4043" reward2="1890" castleId="8" isAlternative="1" seedsLimit="333" cropsLimit="125"/> <!-- Seed: Alternative Desert Coba -->
+	<seed id="8237" level="10" cropId="5073" matureId="5103" reward1="1864" reward2="1878" castleId="9" isAlternative="0" seedsLimit="8784" cropsLimit="9760"/> <!-- Seed: Dark Coda -->
+	<seed id="8238" level="13" cropId="5068" matureId="5098" reward1="1865" reward2="1879" castleId="9" isAlternative="0" seedsLimit="8784" cropsLimit="9760"/> <!-- Seed: Red Coda -->
+	<seed id="8239" level="16" cropId="5065" matureId="5095" reward1="1866" reward2="1874" castleId="9" isAlternative="0" seedsLimit="8784" cropsLimit="9760"/> <!-- Seed: Chilly Coda -->
+	<seed id="8240" level="19" cropId="5067" matureId="5097" reward1="1867" reward2="1894" castleId="9" isAlternative="0" seedsLimit="4392" cropsLimit="4880"/> <!-- Seed: Blue Coda -->
+	<seed id="8241" level="22" cropId="5069" matureId="5099" reward1="1868" reward2="1876" castleId="9" isAlternative="0" seedsLimit="2196" cropsLimit="2440"/> <!-- Seed: Golden Coda -->
+	<seed id="8242" level="25" cropId="5071" matureId="5101" reward1="1869" reward2="1895" castleId="9" isAlternative="0" seedsLimit="1464" cropsLimit="1626"/> <!-- Seed: Lute Coda -->
+	<seed id="8243" level="28" cropId="5070" matureId="5100" reward1="1870" reward2="1877" castleId="9" isAlternative="0" seedsLimit="2196" cropsLimit="2440"/> <!-- Seed: Desert Coda -->
+	<seed id="8244" level="31" cropId="5078" matureId="5108" reward1="1871" reward2="4042" castleId="9" isAlternative="0" seedsLimit="2196" cropsLimit="2440"/> <!-- Seed: Red Cobol -->
+	<seed id="8245" level="34" cropId="5075" matureId="5105" reward1="1872" reward2="1880" castleId="9" isAlternative="0" seedsLimit="1756" cropsLimit="1952"/> <!-- Seed: Chilly Cobol -->
+	<seed id="8246" level="37" cropId="5077" matureId="5107" reward1="1873" reward2="4044" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Blue Cobol -->
+	<seed id="8247" level="40" cropId="5082" matureId="5112" reward1="1864" reward2="5549" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Thorn Cobol -->
+	<seed id="8248" level="43" cropId="5079" matureId="5109" reward1="1865" reward2="4039" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Golden Cobol -->
+	<seed id="8249" level="46" cropId="5084" matureId="5114" reward1="1866" reward2="1885" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Great Cobol -->
+	<seed id="8250" level="49" cropId="5088" matureId="5118" reward1="1867" reward2="4043" castleId="9" isAlternative="0" seedsLimit="1098" cropsLimit="1220"/> <!-- Seed: Red Codran -->
+	<seed id="8251" level="50" cropId="5091" matureId="5121" reward1="1868" reward2="1884" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Sea Codran -->
+	<seed id="8252" level="52" cropId="5085" matureId="5115" reward1="1869" reward2="4041" castleId="9" isAlternative="0" seedsLimit="1098" cropsLimit="1220"/> <!-- Seed: Chilly Codran -->
+	<seed id="8253" level="55" cropId="5087" matureId="5117" reward1="1870" reward2="1882" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Blue Codran -->
+	<seed id="8254" level="58" cropId="5092" matureId="5122" reward1="1871" reward2="4040" castleId="9" isAlternative="0" seedsLimit="878" cropsLimit="976"/> <!-- Seed: Twin Codran -->
+	<seed id="8255" level="10" cropId="5818" matureId="5838" reward1="1864" reward2="1878" castleId="9" isAlternative="1" seedsLimit="24400" cropsLimit="2440"/> <!-- Alternative Dark Coda Seed -->
+	<seed id="8256" level="13" cropId="5819" matureId="5839" reward1="1865" reward2="1879" castleId="9" isAlternative="1" seedsLimit="24400" cropsLimit="2440"/> <!-- Alternative Red Coda Seed -->
+	<seed id="8257" level="16" cropId="5820" matureId="5840" reward1="1866" reward2="1874" castleId="9" isAlternative="1" seedsLimit="24400" cropsLimit="2440"/> <!-- Seed: Alternative Chilly Coda -->
+	<seed id="8258" level="19" cropId="5821" matureId="5841" reward1="1867" reward2="1894" castleId="9" isAlternative="1" seedsLimit="12200" cropsLimit="1220"/> <!-- Alternative Blue Coda Seed -->
+	<seed id="8259" level="22" cropId="5822" matureId="5842" reward1="1868" reward2="1876" castleId="9" isAlternative="1" seedsLimit="6100" cropsLimit="610"/> <!-- Seed: Alternative Golden Coda -->
+	<seed id="8260" level="25" cropId="5823" matureId="5843" reward1="1869" reward2="1895" castleId="9" isAlternative="1" seedsLimit="4066" cropsLimit="406"/> <!-- Alternative Lute Coda Seed -->
+	<seed id="8261" level="28" cropId="5824" matureId="5844" reward1="1870" reward2="1877" castleId="9" isAlternative="1" seedsLimit="6100" cropsLimit="610"/> <!-- Alternative Desert Coda Seed -->
+	<seed id="8262" level="31" cropId="5825" matureId="5845" reward1="1871" reward2="4042" castleId="9" isAlternative="1" seedsLimit="6100" cropsLimit="610"/> <!-- Seed: Alternative Red Cobol -->
+	<seed id="8263" level="34" cropId="5826" matureId="5846" reward1="1872" reward2="1880" castleId="9" isAlternative="1" seedsLimit="4880" cropsLimit="488"/> <!-- Seed: Alternative Chilly Cobol -->
+	<seed id="8264" level="37" cropId="5827" matureId="5847" reward1="1873" reward2="4044" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Seed: Alternative Blue Cobol -->
+	<seed id="8265" level="40" cropId="5828" matureId="5848" reward1="1864" reward2="5549" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Alternative Thorn Cobol Seed -->
+	<seed id="8266" level="43" cropId="5829" matureId="5849" reward1="1865" reward2="4039" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Seed: Alternative Golden Cobol -->
+	<seed id="8267" level="46" cropId="5830" matureId="5850" reward1="1866" reward2="1885" castleId="9" isAlternative="1" seedsLimit="3050" cropsLimit="305"/> <!-- Seed: Alternative Great Cobol -->
+	<seed id="8268" level="49" cropId="5831" matureId="5851" reward1="1867" reward2="4043" castleId="9" isAlternative="1" seedsLimit="3050" cropsLimit="305"/> <!-- Seed: Alternative Red Codran -->
+	<seed id="8269" level="50" cropId="5832" matureId="5852" reward1="1868" reward2="1884" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Seed: Alternative Sea Codran -->
+	<seed id="8270" level="52" cropId="5833" matureId="5853" reward1="1869" reward2="4041" castleId="9" isAlternative="1" seedsLimit="3050" cropsLimit="305"/> <!-- Seed: Alternative Chilly Codran -->
+	<seed id="8271" level="55" cropId="5834" matureId="5854" reward1="1870" reward2="1882" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Seed: Alternative Blue Codran -->
+	<seed id="8272" level="58" cropId="5835" matureId="5855" reward1="1871" reward2="4040" castleId="9" isAlternative="1" seedsLimit="2440" cropsLimit="244"/> <!-- Seed: Alternative Twin Codran -->
+	<seed id="8521" level="79" cropId="6545" matureId="6559" reward1="4044" reward2="4042" castleId="8" isAlternative="0" seedsLimit="100" cropsLimit="444"/> <!-- Seed: Sea Coba -->
+	<seed id="8522" level="79" cropId="6552" matureId="6566" reward1="4044" reward2="4042" castleId="8" isAlternative="1" seedsLimit="277" cropsLimit="111"/> <!-- Seed: Alternative Sea Coba -->
+	<seed id="8523" level="82" cropId="6546" matureId="6560" reward1="1885" reward2="1893" castleId="8" isAlternative="0" seedsLimit="90" cropsLimit="400"/> <!-- Seed: Twin Coba -->
+	<seed id="8524" level="82" cropId="6553" matureId="6567" reward1="1885" reward2="1893" castleId="8" isAlternative="1" seedsLimit="250" cropsLimit="100"/> <!-- Seed: Alternative Twin Coba -->
+	<seed id="8525" level="85" cropId="6547" matureId="6561" reward1="5549" reward2="5550" castleId="8" isAlternative="0" seedsLimit="75" cropsLimit="363"/> <!-- Seed: Great Coba -->
+	<seed id="8526" level="85" cropId="6554" matureId="6568" reward1="5549" reward2="5550" castleId="8" isAlternative="1" seedsLimit="208" cropsLimit="90"/> <!-- Seed: Alternative Great Coba -->
+</list>

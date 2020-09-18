@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<list>
+
+	<!-- Quests Section -->
+
+	<script path="quests.Q001_LettersOfLove"/>
+	<script path="quests.Q002_WhatWomenWant"/>
+	<script path="quests.Q003_WillTheSealBeBroken"/>
+	<script path="quests.Q004_LongliveThePaagrioLord"/>
+	<script path="quests.Q005_MinersFavor"/>
+	<script path="quests.Q006_StepIntoTheFuture"/>
+	<script path="quests.Q007_ATripBegins"/>
+	<script path="quests.Q008_AnAdventureBegins"/>
+	<script path="quests.Q009_IntoTheCityOfHumans"/>
+	<script path="quests.Q010_IntoTheWorld"/>
+	<script path="quests.Q011_SecretMeetingWithKetraOrcs"/>
+	<script path="quests.Q012_SecretMeetingWithVarkaSilenos"/>
+	<script path="quests.Q013_ParcelDelivery"/>
+	<script path="quests.Q014_WhereaboutsOfTheArchaeologist"/>
+	<script path="quests.Q015_SweetWhispers"/>
+	<script path="quests.Q016_TheComingDarkness"/>
+	<script path="quests.Q017_LightAndDarkness"/>
+	<script path="quests.Q018_MeetingWithTheGoldenRam"/>
+	<script path="quests.Q019_GoToThePastureland"/>
+	<script path="quests.Q020_BringUpWithLove"/>
+	<script path="quests.Q021_HiddenTruth"/>
+	<script path="quests.Q022_TragedyInVonHellmannForest"/>
+	<script path="quests.Q023_LidiasHeart"/>
+	<script path="quests.Q024_InhabitantsOfTheForestOfTheDead"/>
+<!-- 	<script path="quests.Q025_HidingBehindTheTruth"/> -->
+	<script path="quests.Q027_ChestCaughtWithABaitOfWind"/>
+	<script path="quests.Q028_ChestCaughtWithABaitOfIcyAir"/>
+	<script path="quests.Q029_ChestCaughtWithABaitOfEarth"/>
+	<script path="quests.Q030_ChestCaughtWithABaitOfFire"/>
+	<script path="quests.Q031_SecretBuriedInTheSwamp"/>
+	<script path="quests.Q032_AnObviousLie"/>
+	<script path="quests.Q033_MakeAPairOfDressShoes"/>
+	<script path="quests.Q034_InSearchOfCloth"/>
+	<script path="quests.Q035_FindGlitteringJewelry"/>
+	<script path="quests.Q036_MakeASewingKit"/>
+	<script path="quests.Q037_MakeFormalWear"/>
+	<script path="quests.Q038_DragonFangs"/>
+	<script path="quests.Q039_RedEyedInvaders"/>
+	<script path="quests.Q042_HelpTheUncle"/>
+	<script path="quests.Q043_HelpTheSister"/>
+	<script path="quests.Q044_HelpTheSon"/>
+	<script path="quests.Q045_ToTalkingIsland"/>
+	<script path="quests.Q046_OnceMoreInTheArmsOfTheMotherTree"/>
+	<script path="quests.Q047_IntoTheDarkForest"/>
+	<script path="quests.Q048_ToTheImmortalPlateau"/>
+	<script path="quests.Q049_TheRoadHome"/>
+	<script path="quests.Q050_LanoscosSpecialBait"/>
+	<script path="quests.Q051_OFullesSpecialBait"/>
+	<script path="quests.Q052_WilliesSpecialBait"/>
+	<script path="quests.Q053_LinnaeusSpecialBait"/>
+	<script path="quests.Q070_SagaOfThePhoenixKnight"/>
+	<script path="quests.Q071_SagaOfEvasTemplar"/>
+	<script path="quests.Q072_SagaOfTheSwordMuse"/>
+	<script path="quests.Q073_SagaOfTheDuelist"/>
+	<script path="quests.Q074_SagaOfTheDreadnought"/>
+	<script path="quests.Q075_SagaOfTheTitan"/>
+	<script path="quests.Q076_SagaOfTheGrandKhavatari"/>
+	<script path="quests.Q077_SagaOfTheDominator"/>
+	<script path="quests.Q078_SagaOfTheDoomcryer"/>
+	<script path="quests.Q079_SagaOfTheAdventurer"/>
+	<script path="quests.Q080_SagaOfTheWindRider"/>
+	<script path="quests.Q081_SagaOfTheGhostHunter"/>
+	<script path="quests.Q082_SagaOfTheSagittarius"/>
+	<script path="quests.Q083_SagaOfTheMoonlightSentinel"/>
+	<script path="quests.Q084_SagaOfTheGhostSentinel"/>
+	<script path="quests.Q085_SagaOfTheCardinal"/>
+	<script path="quests.Q086_SagaOfTheHierophant"/>
+	<script path="quests.Q087_SagaOfEvasSaint"/>
+	<script path="quests.Q088_SagaOfTheArchmage"/>
+	<script path="quests.Q089_SagaOfTheMysticMuse"/>
+	<script path="quests.Q090_SagaOfTheStormScreamer"/>
+	<script path="quests.Q091_SagaOfTheArcanaLord"/>
+	<script path="quests.Q092_SagaOfTheElementalMaster"/>
+	<script path="quests.Q093_SagaOfTheSpectralMaster"/>
+	<script path="quests.Q094_SagaOfTheSoultaker"/>
+	<script path="quests.Q095_SagaOfTheHellKnight"/>
+	<script path="quests.Q096_SagaOfTheSpectralDancer"/>
+	<script path="quests.Q097_SagaOfTheShillienTemplar"/>
+	<script path="quests.Q098_SagaOfTheShillienSaint"/>
+	<script path="quests.Q099_SagaOfTheFortuneSeeker"/>
+	<script path="quests.Q100_SagaOfTheMaestro"/>
+	<script path="quests.Q101_SwordOfSolidarity"/>
+	<script path="quests.Q102_SeaOfSporesFever"/>
+	<script path="quests.Q103_SpiritOfCraftsman"/>
+	<script path="quests.Q104_SpiritOfMirrors"/>
+	<script path="quests.Q105_SkirmishWithTheOrcs"/>
+	<script path="quests.Q106_ForgottenTruth"/>
+	<script path="quests.Q107_MercilessPunishment"/>
+	<script path="quests.Q108_JumbleTumbleDiamondFuss"/>
+	<script path="quests.Q109_InSearchOfTheNest"/>
+	<script path="quests.Q110_ToThePrimevalIsle"/>
+	<script path="quests.Q111_ElrokianHuntersProof"/>
+	<script path="quests.Q112_WalkOfFate"/>
+	<script path="quests.Q113_StatusOfTheBeaconTower"/>
+	<script path="quests.Q114_ResurrectionOfAnOldManager"/>
+ 	<script path="quests.Q115_TheOtherSideOfTruth"/>
+	<script path="quests.Q116_BeyondTheHillsOfWinter"/>
+	<script path="quests.Q117_TheOceanOfDistantStars"/>
+ 	<script path="quests.Q118_ToLeadAndBeLed"/>
+	<script path="quests.Q119_LastImperialPrince"/>
+<!-- 	<script path="quests.Q120_PavelsResearch"/> -->
+	<script path="quests.Q121_PavelTheGiant"/>
+	<script path="quests.Q122_OminousNews"/>
+	<script path="quests.Q123_TheLeaderAndTheFollower"/>
+	<script path="quests.Q124_MeetingTheElroki"/>
+	<script path="quests.Q125_TheNameOfEvil_1"/>
+	<script path="quests.Q126_TheNameOfEvil_2"/>
+	<script path="quests.Q127_KamaelAWindowToTheFuture"/>
+	<script path="quests.Q151_CureForFeverDisease"/>
+	<script path="quests.Q152_ShardsOfGolem"/>
+	<script path="quests.Q153_DeliverGoods"/>
+	<script path="quests.Q154_SacrificeToTheSea"/>
+	<script path="quests.Q155_FindSirWindawood"/>
+	<script path="quests.Q156_MillenniumLove"/>
+	<script path="quests.Q157_RecoverSmuggledGoods"/>
+	<script path="quests.Q158_SeedOfEvil"/>
+	<script path="quests.Q159_ProtectTheWaterSource"/>
+	<script path="quests.Q160_NerupasRequest"/>
+	<script path="quests.Q161_FruitOfTheMotherTree"/>
+	<script path="quests.Q162_CurseOfTheUndergroundFortress"/>
+	<script path="quests.Q163_LegacyOfThePoet"/>
+	<script path="quests.Q164_BloodFiend"/>
+	<script path="quests.Q165_ShilensHunt"/>
+	<script path="quests.Q166_MassOfDarkness"/>
+	<script path="quests.Q167_DwarvenKinship"/>
+	<script path="quests.Q168_DeliverSupplies"/>
+	<script path="quests.Q169_OffspringOfNightmares"/>
+	<script path="quests.Q170_DangerousSeduction"/>
+	<script path="quests.Q171_ActsOfEvil"/>
+	<script path="quests.Q211_TrialOfTheChallenger"/>
+	<script path="quests.Q212_TrialOfDuty"/>
+	<script path="quests.Q213_TrialOfTheSeeker"/>
+	<script path="quests.Q214_TrialOfTheScholar"/>
+	<script path="quests.Q215_TrialOfThePilgrim"/>
+	<script path="quests.Q216_TrialOfTheGuildsman"/>
+	<script path="quests.Q217_TestimonyOfTrust"/>
+	<script path="quests.Q218_TestimonyOfLife"/>
+	<script path="quests.Q219_TestimonyOfFate"/>
+	<script path="quests.Q220_TestimonyOfGlory"/>
+	<script path="quests.Q221_TestimonyOfProsperity"/>
+	<script path="quests.Q222_TestOfTheDuelist"/>
+	<script path="quests.Q223_TestOfTheChampion"/>
+	<script path="quests.Q224_TestOfSagittarius"/>
+	<script path="quests.Q225_TestOfTheSearcher"/>
+	<script path="quests.Q226_TestOfTheHealer"/>
+	<script path="quests.Q227_TestOfTheReformer"/>
+	<script path="quests.Q228_TestOfMagus"/>
+	<script path="quests.Q229_TestOfWitchcraft"/>
+	<script path="quests.Q230_TestOfTheSummoner"/>
+	<script path="quests.Q231_TestOfTheMaestro"/>
+	<script path="quests.Q232_TestOfTheLord"/>
+	<script path="quests.Q233_TestOfTheWarSpirit"/>
+	<script path="quests.Q234_FatesWhisper"/>
+	<script path="quests.Q235_MimirsElixir"/>
+	<script path="quests.Q241_PossessorOfAPreciousSoul"/>
+	<script path="quests.Q242_PossessorOfAPreciousSoul"/>
+	<script path="quests.Q246_PossessorOfAPreciousSoul"/>
+	<script path="quests.Q247_PossessorOfAPreciousSoul"/>
+	<script path="quests.Q257_TheGuardIsBusy"/>
+	<script path="quests.Q258_BringWolfPelts"/>
+	<script path="quests.Q259_RanchersPlea"/>
+	<script path="quests.Q260_HuntTheOrcs"/>
+	<script path="quests.Q261_CollectorsDream"/>
+	<script path="quests.Q262_TradeWithTheIvoryTower"/>
+	<script path="quests.Q263_OrcSubjugation"/>
+	<script path="quests.Q264_KeenClaws"/>
+	<script path="quests.Q265_ChainsOfSlavery"/>
+	<script path="quests.Q266_PleasOfPixies"/>
+	<script path="quests.Q267_WrathOfVerdure"/>
+	<script path="quests.Q271_ProofOfValor"/>
+	<script path="quests.Q272_WrathOfAncestors"/>
+	<script path="quests.Q273_InvadersOfTheHolyLand"/>
+	<script path="quests.Q274_SkirmishWithTheWerewolves"/>
+	<script path="quests.Q275_DarkWingedSpies"/>
+	<script path="quests.Q276_TotemOfTheHestui"/>
+	<script path="quests.Q277_GatekeepersOffering"/>
+	<script path="quests.Q291_RevengeOfTheRedbonnet"/>
+	<script path="quests.Q292_BrigandsSweep"/>
+	<script path="quests.Q293_TheHiddenVeins"/>
+	<script path="quests.Q294_CovertBusiness"/>
+	<script path="quests.Q295_DreamingOfTheSkies"/>
+	<script path="quests.Q296_TarantulasSpiderSilk"/>
+	<script path="quests.Q297_GatekeepersFavor"/>
+	<script path="quests.Q298_LizardmensConspiracy"/>
+	<script path="quests.Q299_GatherIngredientsForPie"/>
+	<script path="quests.Q300_HuntingLetoLizardman"/>
+	<script path="quests.Q303_CollectArrowheads"/>
+	<script path="quests.Q306_CrystalsOfFireAndIce"/>
+	<script path="quests.Q313_CollectSpores"/>
+	<script path="quests.Q316_DestroyPlagueCarriers"/>
+	<script path="quests.Q317_CatchTheWind"/>
+	<script path="quests.Q319_ScentOfDeath"/>
+	<script path="quests.Q320_BonesTellTheFuture"/>
+	<script path="quests.Q324_SweetestVenom"/>
+	<script path="quests.Q325_GrimCollector"/>
+	<script path="quests.Q326_VanquishRemnants"/>
+	<script path="quests.Q327_RecoverTheFarmland"/>
+	<script path="quests.Q328_SenseForBusiness"/>
+	<script path="quests.Q329_CuriosityOfADwarf"/>
+	<script path="quests.Q330_AdeptOfTaste"/>
+	<script path="quests.Q331_ArrowOfVengeance"/>
+	<script path="quests.Q333_HuntOfTheBlackLion"/>
+<!-- 	<script path="quests.Q334_TheWishingPotion"/> -->
+<!-- 	<script path="quests.Q335_SongOfTheHunter"/> -->
+<!-- 	<script path="quests.Q336_CoinsOfMagic"/> -->
+	<script path="quests.Q337_AudienceWithTheLandDragon"/>
+	<script path="quests.Q338_AlligatorHunter"/>
+	<script path="quests.Q340_SubjugationOfLizardmen"/>
+	<script path="quests.Q341_HuntingForWildBeasts"/>
+<!-- 	<script path="quests.Q343_UnderTheShadowOfTheIvoryTower"/> -->
+	<script path="quests.Q344_1000YearsTheEndOfLamentation"/>
+	<script path="quests.Q345_MethodToRaiseTheDead"/>
+	<script path="quests.Q347_GoGetTheCalculator"/>
+	<script path="quests.Q348_AnArrogantSearch"/>
+	<script path="quests.Q350_EnhanceYourWeapon"/>
+	<script path="quests.Q351_BlackSwan"/>
+	<script path="quests.Q352_HelpRoodRaiseANewPet"/>
+	<script path="quests.Q353_PowerOfDarkness"/>
+	<script path="quests.Q354_ConquestOfAlligatorIsland"/>
+	<script path="quests.Q355_FamilyHonor"/>
+	<script path="quests.Q356_DigUpTheSeaOfSpores"/>
+	<script path="quests.Q357_WarehouseKeepersAmbition"/>
+	<script path="quests.Q358_IllegitimateChildOfAGoddess"/>
+	<script path="quests.Q359_ForSleeplessDeadmen"/>
+	<script path="quests.Q360_PlunderTheirSupplies"/>
+	<script path="quests.Q362_BardsMandolin"/>
+	<script path="quests.Q363_SorrowfulSoundOfFlute"/>
+	<script path="quests.Q364_JovialAccordion"/>
+	<script path="quests.Q365_DevilsLegacy"/>
+	<script path="quests.Q366_SilverHairedShaman"/>
+	<script path="quests.Q367_ElectrifyingRecharge"/>
+	<script path="quests.Q368_TrespassingIntoTheSacredArea"/>
+	<script path="quests.Q369_CollectorOfJewels"/>
+	<script path="quests.Q370_AnElderSowsSeeds"/>
+	<script path="quests.Q371_ShriekOfGhosts"/>
+	<script path="quests.Q372_LegacyOfInsolence"/>
+	<script path="quests.Q373_SupplierOfReagents"/>
+	<script path="quests.Q374_WhisperOfDreams_Part1"/>
+	<script path="quests.Q375_WhisperOfDreams_Part2"/>
+	<script path="quests.Q376_ExplorationOfTheGiantsCave_Part1"/>
+	<script path="quests.Q377_ExplorationOfTheGiantsCave_Part2"/>
+	<script path="quests.Q378_MagnificentFeast"/>
+	<script path="quests.Q379_FantasyWine"/>
+	<script path="quests.Q380_BringOutTheFlavorOfIngredients"/>
+	<script path="quests.Q381_LetsBecomeARoyalMember"/>
+	<script path="quests.Q382_KailsMagicCoin"/>
+	<script path="quests.Q383_SearchingForTreasure"/>
+	<script path="quests.Q384_WarehouseKeepersPastime"/>
+	<script path="quests.Q385_YokeOfThePast"/>
+<!-- 	<script path="quests.Q386_StolenDignity"/> -->
+	<script path="quests.Q401_PathToAWarrior"/>
+	<script path="quests.Q402_PathToAHumanKnight"/>
+	<script path="quests.Q403_PathToARogue"/>
+	<script path="quests.Q404_PathToAHumanWizard"/>
+	<script path="quests.Q405_PathToACleric"/>
+	<script path="quests.Q406_PathToAnElvenKnight"/>
+	<script path="quests.Q407_PathToAnElvenScout"/>
+	<script path="quests.Q408_PathToAnElvenWizard"/>
+	<script path="quests.Q409_PathToAnElvenOracle"/>
+	<script path="quests.Q410_PathToAPalusKnight"/>
+	<script path="quests.Q411_PathToAnAssassin"/>
+	<script path="quests.Q412_PathToADarkWizard"/>
+	<script path="quests.Q413_PathToAShillienOracle"/>
+	<script path="quests.Q414_PathToAnOrcRaider"/>
+	<script path="quests.Q415_PathToAMonk"/>
+	<script path="quests.Q416_PathToAnOrcShaman"/>
+	<script path="quests.Q417_PathToBecomeAScavenger"/>
+	<script path="quests.Q418_PathToAnArtisan"/>
+	<script path="quests.Q419_GetAPet"/>
+	<script path="quests.Q420_LittleWing"/>
+	<script path="quests.Q421_LittleWingsBigAdventure"/>
+	<script path="quests.Q422_RepentYourSins"/>
+	<script path="quests.Q426_QuestForFishingShot"/>
+	<script path="quests.Q431_WeddingMarch"/>
+	<script path="quests.Q432_BirthdayPartySong"/>
+<!-- 	<script path="quests.Q501_ProofOfClanAlliance"/> -->
+<!-- 	<script path="quests.Q503_PursuitOfClanAmbition"/> -->
+<!-- 	<script path="quests.Q504_CompetitionForTheBanditStronghold"/> -->
+<!-- 	<script path="quests.Q505_BloodOffering"/> -->
+	<script path="quests.Q508_AClansReputation"/>
+	<script path="quests.Q509_TheClansPrestige"/>
+	<script path="quests.Q510_AClansReputation"/>
+	<script path="quests.Q601_WatchingEyes"/>
+	<script path="quests.Q602_ShadowOfLight"/>
+	<script path="quests.Q603_DaimonTheWhiteEyed_Part1"/>
+	<script path="quests.Q604_DaimonTheWhiteEyed_Part2"/>
+	<script path="quests.Q605_AllianceWithKetraOrcs"/>
+	<script path="quests.Q606_WarWithVarkaSilenos"/>
+	<script path="quests.Q607_ProveYourCourage"/>
+	<script path="quests.Q608_SlayTheEnemyCommander"/>
+	<script path="quests.Q609_MagicalPowerOfWater_Part1"/>
+	<script path="quests.Q610_MagicalPowerOfWater_Part2"/>
+	<script path="quests.Q611_AllianceWithVarkaSilenos"/>
+	<script path="quests.Q612_WarWithKetraOrcs"/>
+	<script path="quests.Q613_ProveYourCourage"/>
+	<script path="quests.Q614_SlayTheEnemyCommander"/>
+	<script path="quests.Q615_MagicalPowerOfFire_Part1"/>
+	<script path="quests.Q616_MagicalPowerOfFire_Part2"/>
+	<script path="quests.Q617_GatherTheFlames"/>
+	<script path="quests.Q618_IntoTheFlame"/>
+	<script path="quests.Q619_RelicsOfTheOldEmpire"/>
+	<script path="quests.Q620_FourGoblets"/>
+	<script path="quests.Q621_EggDelivery"/>
+	<script path="quests.Q622_SpecialtyLiquorDelivery"/>
+	<script path="quests.Q623_TheFinestFood"/>
+	<script path="quests.Q624_TheFinestIngredients_Part1"/>
+	<script path="quests.Q625_TheFinestIngredients_Part2"/>
+	<script path="quests.Q626_ADarkTwilight"/>
+	<script path="quests.Q627_HeartInSearchOfPower"/>
+	<script path="quests.Q628_HuntOfTheGoldenRamMercenaryForce"/>
+	<script path="quests.Q629_CleanUpTheSwampOfScreams"/>
+	<script path="quests.Q631_DeliciousTopChoiceMeat"/>
+	<script path="quests.Q632_NecromancersRequest"/>
+	<script path="quests.Q633_InTheForgottenVillage"/>
+	<script path="quests.Q634_InSearchOfFragmentsOfDimension"/>
+	<script path="quests.Q636_TruthBeyondTheGate"/>
+	<script path="quests.Q637_ThroughTheGateOnceMore"/>
+	<script path="quests.Q638_SeekersOfTheHolyGrail"/>
+	<script path="quests.Q639_GuardiansOfTheHolyGrail"/>
+	<script path="quests.Q640_TheZeroHour"/>
+	<script path="quests.Q641_AttackSailren"/>
+	<script path="quests.Q642_APowerfulPrimevalCreature"/>
+	<script path="quests.Q643_RiseAndFallOfTheElrokiTribe"/>
+	<script path="quests.Q644_GraveRobberAnnihilation"/>
+	<script path="quests.Q645_GhostsOfBatur"/>
+	<script path="quests.Q646_SignsOfRevolt"/>
+	<script path="quests.Q647_InfluxOfMachines"/>
+	<script path="quests.Q648_AnIceMerchantsDream"/>
+	<script path="quests.Q649_ALooterAndARailroadMan"/>
+	<script path="quests.Q650_ABrokenDream"/>
+	<script path="quests.Q651_RunawayYouth"/>
+	<script path="quests.Q652_AnAgedExAdventurer"/>
+	<script path="quests.Q653_WildMaiden"/>
+	<script path="quests.Q654_JourneyToASettlement"/>
+<!-- 	<script path="quests.Q655_AGrandPlanForTamingWildBeasts"/> -->
+	<script path="quests.Q659_IdRatherBeCollectingFairyBreath"/>
+	<script path="quests.Q660_AidingTheFloranVillage"/>
+	<script path="quests.Q661_MakingTheHarvestGroundsSafe"/>
+	<script path="quests.Q662_AGameOfCards"/>
+	<script path="quests.Q663_SeductiveWhispers"/>
+	<script path="quests.Q688_DefeatTheElrokianRaiders"/>
+<!-- 	<script path="quests.Tutorial"/> -->
+
+	<!-- AI Section -->
+
+	<script path="scripts.ai.L2AttackableAIScript"/>
+
+	<script path="scripts.ai.group.Chests"/>
+	<script path="scripts.ai.group.FeedableBeasts"/>
+	<script path="scripts.ai.group.FleeingNPCs"/>
+	<script path="scripts.ai.group.ForestOfTheDead"/>
+	<script path="scripts.ai.group.FourSepulchers"/>
+	<script path="scripts.ai.group.FrenzyOnAttack"/>
+	<script path="scripts.ai.group.FrozenLabyrinth"/>
+	<script path="scripts.ai.group.GatekeeperZombies"/>
+	<script path="scripts.ai.group.HotSpringDisease"/>
+	<script path="scripts.ai.group.Monastery"/>
+	<script path="scripts.ai.group.PlainsOfDion"/>
+	<script path="scripts.ai.group.PolymorphingAngel"/>
+	<script path="scripts.ai.group.PolymorphingOnAttack"/>
+	<script path="scripts.ai.group.PrimevalIsle"/>
+	<script path="scripts.ai.group.SpeakingNPCs"/>
+	<script path="scripts.ai.group.StakatoNest"/>
+	<script path="scripts.ai.group.SummonMinions"/>
+	<script path="scripts.ai.group.SummonPlayer"/>
+
+	<script path="scripts.ai.individual.Antharas"/>
+	<script path="scripts.ai.individual.Baium"/>
+	<script path="scripts.ai.individual.Benom"/>
+	<script path="scripts.ai.individual.Core"/>
+	<script path="scripts.ai.individual.DrChaos"/>
+<!-- 	<script path="scripts.ai.individual.Frintezza"/> -->
+	<script path="scripts.ai.individual.Gordon"/>
+<!-- 	<script path="scripts.ai.individual.IceFairySirra"/> -->
+	<script path="scripts.ai.individual.Orfen"/>
+	<script path="scripts.ai.individual.QueenAnt"/>
+	<script path="scripts.ai.individual.Sailren"/>
+	<script path="scripts.ai.individual.Valakas"/>
+	<script path="scripts.ai.individual.Zaken"/>
+
+	<!-- Custom -->
+
+	<script path="scripts.custom.EchoCrystals"/>
+	<script path="scripts.custom.ShadowWeapon"/>
+	<script path="scripts.custom.MissQueen"/>
+	<script path="scripts.custom.KetraOrcSupport"/>
+	<script path="scripts.custom.VarkaSilenosSupport"/>
+	<script path="scripts.custom.RaidbossInfo"/>
+	<script path="scripts.custom.NpcLocationInfo"/>
+	<script path="scripts.custom.HeroCirclet"/>
+	<script path="scripts.custom.HeroWeapon"/>
+
+	<!-- Events -->
+
+<!-- 	<script path="scripts.events.GiftOfVitality"/> -->
+<!-- 	<script path="scripts.events.HeavyMedal"/> -->
+<!-- 	<script path="scripts.events.TheValentineEvent"/> -->
+<!-- 	<script path="scripts.events.MasterOfEnchanting"/> -->
+
+	<!-- Teleports -->
+
+	<script path="scripts.teleports.ElrokiTeleporters"/>
+	<script path="scripts.teleports.GatekeeperSpirit"/>
+	<script path="scripts.teleports.GrandBossTeleporters"/>
+	<script path="scripts.teleports.HuntingGroundsTeleport"/>
+	<script path="scripts.teleports.NewbieTravelToken"/>
+	<script path="scripts.teleports.NoblesseTeleport"/>
+	<script path="scripts.teleports.OracleTeleport"/>
+	<script path="scripts.teleports.PaganTeleporters"/>
+	<script path="scripts.teleports.RaceTrack"/>
+	<script path="scripts.teleports.TeleportWithCharm"/>
+	<script path="scripts.teleports.ToIVortex"/>
+
+	<!-- Village Master -->
+
+	<script path="scripts.village_master.Alliance"/>
+	<script path="scripts.village_master.Clan"/>
+	<script path="scripts.village_master.FirstClassChange"/>
+	<script path="scripts.village_master.SecondClassChange"/>
+
+	<!-- Tasks -->
+
+	<script path="tasks.ClanLadderRefresh" schedule="DAILY" start="00:05:00"/>
+	<script path="tasks.ClanLeaderTransfer" schedule="WEEKLY" start="TUE 16:55:00"/>
+	<script path="tasks.RaidPointReset" schedule="MONTHLY_WEEK" start="TUE-1 00:00:00"/>
+	<script path="tasks.RecommendationUpdate" schedule="DAILY" start="13:00:00"/>
+<!--	<script path="tasks.ServerRestart" schedule="WEEKLY" start="TUE 17:00:00"/> -->
+<!--	<script path="tasks.ServerShutdown" schedule="WEEKLY" start="TUE 17:00:00"/> -->
+	<script path="tasks.SevenSignsUpdate" schedule="HOURLY" start="00:00"/>
+
+<!--
+WHAT IS SCHEDULED SCRIPT?
+ -	a way to periodicly schedule action on your server periodicly and/or certain duration
+ -	scheduled script can be set to have starting and ending action or only starting action
+ -	all actions may be periodicly triggered, based on the scheduled settings
+
+HOW TO CREATE SCHEDULED SCRIPT?
+ 1)	Create a new script anywhere in "gameserver.scripting" package/sub-package, which inherits ScheduledQuest.
+ 2)	Implement onStart() and onEnd() methods (Note: onEnd() is not invocated, when having a script with one action)
+	Implement init() method, when you have special conditions to start scheduling a script (e.g. config settings, etc)
+
+HOW TO SCHEDULE SCRIPT?
+ 1)	Add a setup line to "scripts.xml", set up "schedule", "start" and "end" parameters
+	When "schedule" parameter is not set, the script will not be scheduled
+	When "end" parameter is not set, the script will only trigger onStart() method
+ 2)	Available configurations
+		<script path="scripts.custom.AAA" schedule="HOURLY" start="44:00"/>
+			- each hour at 44 minutes onStart() action is performed
+		<script path="scripts.custom.BBB" schedule="DAILY" start="17:17:00" end="17:17:15"/>
+			- every day at 17:17:00 onStart() action is performed
+			- every day at 17:17:15 onEnd() action is performed
+		<script path="scripts.custom.CCC" schedule="WEEKLY" start="MON 10:00:00"/>
+			- every week on Monday at 10:00:00 onStart() action is performed
+		<script path="scripts.custom.DDD" schedule="MONTHLY_DAY" start="17 20:00:00"/>
+			- every 17th of each month at 20:00:00 onStart() action is performed
+		<script path="scripts.custom.EEE" schedule="MONTHLY_WEEK" start="MON-2 6:00:00" end="FRI-3 20:00:00"/>
+			- every 2nd Monday of each month at 6:00:00 onStart() action is performed
+			- every 3rd Friday of each month at 20:00:00 onEnd() action is performed
+		<script path="scripts.custom.FFF" schedule="YEARLY_DAY" start="23-12 8:00:00" end="1-1 20:00:00"/>
+			- every year on 23rd December at 8:00:00 onStart() action is performed
+			- every year on 1st January at 20:00:00 onEnd() action is performed
+		<script path="scripts.custom.GGG" schedule="YEARLY_WEEK" start="MON-35 6:00:00" end="SAT-40 20:00:00"/>
+			- every year on the Monday of 35th week at 6:00:00 onStart() action is performed
+			- every year on the Saturday of 40th week at 20:00:00 onEnd() action is performed
+ 3)	When server starts and detects scheduled script in running period (current time between start and end condition), onStart() action is performed
+-->
+</list>

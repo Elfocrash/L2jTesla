@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<group id="1"><!-- default group -->
+		<item id="8600" category="1" chance="20000" /><!-- Herb of Life -->
+		<item id="8601" category="1" chance="8000" /><!-- Greater Herb of Life -->
+		<item id="8602" category="1" chance="1600" /><!-- Superior Herb of Life -->
+		<item id="8603" category="2" chance="20000" /><!-- Herb of Mana -->
+		<item id="8604" category="2" chance="8000" /><!-- Greater Herb of Mana -->
+		<item id="8605" category="2" chance="1600" /><!-- Superior Herb of Mana -->
+		<item id="8612" category="3" chance="400" /><!-- Herb of the Warrior -->
+		<item id="8613" category="3" chance="400" /><!-- Herb of the Mystic -->
+		<item id="8614" category="3" chance="400" /><!-- Herb of Recovery -->
+		<item id="8606" category="4" chance="30000" /><!-- Herb of Power -->
+		<item id="8607" category="5" chance="30000" /><!-- Herb of Magic -->
+		<item id="8608" category="6" chance="30000" /><!-- Herb of Atk. Spd. -->
+		<item id="8609" category="7" chance="30000" /><!-- Herb of Casting Spd. -->
+		<item id="8610" category="8" chance="30000" /><!-- Herb of Critical Attack -->
+		<item id="8611" category="9" chance="30000" /><!-- Herb of Speed -->
+	</group>
+	<group id="2"><!-- Primeval Island mobs. Guessed chances -->
+		<item id="8600" category="1" chance="40000" /><!-- Herb of Life -->
+		<item id="8601" category="1" chance="16000" /><!-- Greater Herb of Life -->
+		<item id="8602" category="1" chance="1200" /><!-- Superior Herb of Life -->
+		<item id="8603" category="2" chance="30000" /><!-- Herb of Mana -->
+		<item id="8604" category="2" chance="12000" /><!-- Greater Herb of Mana -->
+		<item id="8605" category="2" chance="2400" /><!-- Superior Herb of Mana -->
+		<item id="8613" category="3" chance="800" /><!-- Herb of the Mystic -->
+		<item id="8614" category="3" chance="800" /><!-- Herb of Recovery -->
+		<item id="8607" category="4" chance="30000" /><!-- Herb of Magic -->
+		<item id="8609" category="5" chance="30000" /><!-- Herb of Casting Spd. -->
+		<item id="8611" category="6" chance="30000" /><!-- Herb of Speed -->
+	</group>
+</list>

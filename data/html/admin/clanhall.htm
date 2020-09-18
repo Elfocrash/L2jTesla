@@ -1,0 +1,42 @@
+<html><body>
+	<table width=270>
+		<tr>
+			<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td width=180><center>%name%</center></td>
+			<td width=45><button value="Back" action="bypass -h admin_ch" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table><br>
+	<center>
+	<font color="LEVEL">%desc%</font><br>
+	<table width=270>
+		<tr>
+			<td width=150>Id: %id%, grade [%grade%]</td><td width=120>Loc.: %loc%</td>
+		</tr><tr>
+			<td>Default bid: %defaultbid%</td><td>Lease: %lease%</td>
+		</tr>
+	</table><br>
+	<font color="LEVEL">Informations</font>
+	<table width=270>
+		<tr>
+			<td width=150>Owner: %owner%</td><td width=120></td>
+		</tr><tr>
+			<td>Paid until: %paiduntil%</td><td>Paid: %paid%</td>
+		</tr>
+	</table><br>
+	<font color="LEVEL">Auction</font>
+	<table width=270>
+		%auction%
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><button value="Open Doors" action="bypass -h admin_ch %id% open" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Go To" action="bypass -h admin_ch %id% goto" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Give ClanHall" action="bypass -h admin_ch %id% set" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="Close Doors" action="bypass -h admin_ch %id% close" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="End Auction" action="bypass -h admin_ch %id% end" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Take ClanHall" action="bypass -h admin_ch %id% del" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+	</center>
+</body></html>

@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<castle id="1" circletId="6838"> <!-- Gludio Castle -->
+		<artifact val="35063" />
+		<controlTowers>
+			<tower loc="-18325,112811,-2377" />
+			<tower loc="-18048,107098,-2378" />
+			<tower loc="-18113,108597,-2343" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="-18154,107591,-2560" zones="70009,71009" />
+			<tower loc="-19329,108154,-2384" zones="70010,71010" />
+		</flameTowers>
+		<relatedNpcIds val="35100;35104;35095;35092;35093;35094;35096;35097;30405;30407;30497;30667;30635;30311;30674;30648;30617;30597;30591;30207;30208;30731;30425;30634;30611;30499;30010;30373;30369;30014;30374;30375;30022;30034;30376;30037;30500;30502;30501;30498;30210;30316;30317;30593;30391;30377;30422;30424;30428;30289;30030;30345;30344;30293;30504;30503;30505;30507;30506;30315;30378;30290;30417;30314;30313;30209;30385;30320;30386;30379;30380;30387;30382;30383;30384;30381;30435;30733;30008;30009;30598;30368;30031;30045;30046;30044;30043;30041;30042;30040;30039;30026;30027;30028;30029;30406;30017;30019;30047;30003;30005;30054;30055;30283;30006;30032;30035;30036;30033;30048;30051;30050;30049;30312;30001;30002;30004;30427;30429;30411;30413;30409;30410;30412;30618;35385;30827;30658;30659;30619;30729;30337;30338;30332;30331;30333;30334;30335;30336;30298;30254;30294;30253;30321;30288;30327;30297;30329;30330;30416;30255;30322;30256;30325;30326;30328;30434;30342;30429;30666;30660;30612;30653;30730;30638;30436;30437;35102;35080;35081;35085;35098;35099;35103;31047;31046;35101;31079;31086;31078;31085;31562;31567;31568;31569;31413;31416;31417;31425;31426;31432;31433;31439;31440;31356;31357;35648" />
+		<tickets>
+			<ticket itemId="6038" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6039" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6040" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6041" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6042" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6043" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6044" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6045" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6046" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6047" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6115" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6116" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6117" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6118" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6119" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6120" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6121" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6122" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6123" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6124" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6175" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6176" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6177" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6178" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6179" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6180" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6181" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6182" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6183" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6184" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6235" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6236" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6237" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6238" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6239" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6240" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6241" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6242" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6243" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6244" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6295" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6296" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="3960" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="3961" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="3962" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="3963" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="3964" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="3965" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="3966" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="3967" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="3968" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="3969" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="3970" type="TELEPORTER" stationary="true" npcId="35092" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="3971" type="TELEPORTER" stationary="true" npcId="35093" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="3972" type="TELEPORTER" stationary="true" npcId="35094" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="2" circletId="6835"> <!-- Dion Castle -->
+		<artifact val="35105" />
+		<controlTowers>
+			<tower loc="22285,156939,-2571" />
+			<tower loc="22008,162652,-2572" />
+			<tower loc="22073,161153,-2537" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="22114,162159,-2754" zones="70011,71011" />
+			<tower loc="23289,161596,-2578" zones="70012,71012" />
+		</flameTowers>
+		<relatedNpcIds val="35142;35146;35137;35134;35135;35136;35138;35139;30637;30673;30622;30621;30483;30484;30487;30485;30486;30735;30736;30737;30828;30627;30644;30654;30629;30642;30625;30620;30608;30595;30594;30508;30510;30509;30067;30068;30461;30069;30070;30057;30058;30469;30064;30066;30459;30065;30460;30062;30063;30060;30061;30463;30464;30462;30059;30072;30071;30466;30465;30075;30076;30074;30073;30458;30291;30728;30633;30626;30609;30616;30636;30079;30078;30751;30596;30631;30632;35144;35122;35123;35127;35140;35141;35145;31043;31048;35143;31080;31087;31570;31571;31418;31427;31434;31441;35649" />
+		<tickets>
+			<ticket itemId="6051" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6052" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6053" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6054" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6055" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6056" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6057" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6058" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6059" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6060" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6125" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6126" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6127" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6128" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6129" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6130" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6131" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6132" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6133" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6134" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6185" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6186" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6187" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6188" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6189" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6190" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6191" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6192" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6193" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6194" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6245" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6246" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6247" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6248" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6249" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6250" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6251" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6252" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6253" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6254" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6297" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6298" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="3973" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="3974" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="3975" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="3976" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="3977" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="3978" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="3979" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="3980" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="3981" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="3982" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="3983" type="TELEPORTER" stationary="true" npcId="35134" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="3984" type="TELEPORTER" stationary="true" npcId="35135" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="3985" type="TELEPORTER" stationary="true" npcId="35136" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="3" circletId="6839"> <!-- Giran Castle -->
+		<artifact val="35147" />
+		<controlTowers>
+			<tower loc="113115,144829,-2446" />
+			<tower loc="118828,145106,-2447" />
+			<tower loc="117329,145041,-2412" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="118331,145055,-2627" zones="70013,71013" />
+			<tower loc="117768,143880,-2451" zones="70014,71014" />
+		</flameTowers>
+		<relatedNpcIds val="35184;35188;35179;35176;35177;35178;35180;35181;30879;30878;30752;30754;30630;30615;30557;30081;30082;30084;30085;30087;30088;30093;30094;30511;30103;30104;30512;30300;30471;30115;30110;30111;30112;30113;30114;30829;30756;30753;30120;30116;30118;30117;30473;30119;30108;30109;30105;30107;30106;30472;30513;30515;30514;30645;30624;30614;30090;30091;30474;30475;30476;30097;30098;30128;30478;30126;30125;30123;30124;30452;30477;30121;30122;30083;30086;30092;30095;30080;30832;30835;30833;30834;30836;30758;30761;30762;30763;30640;35186;35164;35165;35169;35182;35183;35187;31044;31045;31049;35185;31081;31088;31572;31573;31419;31420;31428;31435;31442;35650" />
+		<tickets>
+			<ticket itemId="6064" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6065" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6066" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6067" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6068" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6069" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6070" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6071" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6072" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6073" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6135" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6136" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6137" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6138" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6139" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6140" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6141" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6142" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6143" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6144" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6195" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6196" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6197" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6198" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6199" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6200" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6201" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6202" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6203" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6204" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6255" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6256" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6257" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6258" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6259" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6260" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6261" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6262" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6263" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6264" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6299" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6300" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="3986" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="3987" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="3988" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="3989" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="3990" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="3991" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="3992" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="3993" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="3994" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="3995" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="3996" type="TELEPORTER" stationary="true" npcId="35176" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="3997" type="TELEPORTER" stationary="true" npcId="35177" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="3998" type="TELEPORTER" stationary="true" npcId="35178" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="4" circletId="6837"> <!-- Oren Castle -->
+		<artifact val="35189" />
+		<controlTowers>
+			<tower loc="79193,36977,-2167" />
+			<tower loc="84906,37254,-2168" />
+			<tower loc="83407,37189,-2133" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="84407,37150,-2354" zones="70015,71015" />
+			<tower loc="83844,35975,-2178" zones="70016,71016" />
+		</flameTowers>
+		<relatedNpcIds val="35226;35232;35221;35218;35219;35220;35222;35223;30418;30663;30661;30665;30661;30664;30421;30419;30420;30652;30661;30662;30668;30415;30426;30432;30433;30430;30431;31852;30129;30600;30141;30359;30144;30360;30143;30358;30305;30145;30350;30140;30139;30136;30307;30135;30137;30138;30347;30346;30133;30132;30404;30131;30130;30348;30349;30351;30134;30352;30354;30353;30357;30356;30355;30224;30153;30151;30152;30363;30154;30156;30157;30155;30158;30639;30423;30148;31853;30599;30414;30150;30149;30147;30223;30222;30361;30362;30401;30370;30403;30402;30400;30216;30217;30220;30221;30284;30285;30146;30218;30219;30749;30371;30748;30738;30757;30759;30169;30170;30162;30166;30165;30164;30163;30727;30716;30171;30176;30715;30717;30174;30718;30719;30175;30720;30721;30722;30726;30725;30723;30724;30750;30760;30830;30657;30641;30623;30178;30179;30180;30181;30676;30182;30183;30677;30678;30177;30187;30185;30186;30679;30184;30191;30188;30189;30680;30190;30195;30192;30194;30683;30681;30682;30197;30196;30199;30198;30201;30200;30889;30733;30888;30887;30885;30884;30883;30880;30881;30882;30886;35228;35206;35207;35211;35224;35225;35229;35230;35231;31052;35227;31083;31090;31563;31564;31574;31422;31430;31437;31444;31414;31415;31675;31677;31358;31359;31360;31361;31605;35651" />
+		<tickets>
+			<ticket itemId="6077" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6078" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6079" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6080" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6081" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6082" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6083" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6084" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6085" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6086" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6145" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6146" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6147" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6148" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6149" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6150" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6151" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6152" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6153" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6154" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6205" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6206" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6207" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6208" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6209" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6210" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6211" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6212" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6213" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6214" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6265" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6266" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6267" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6268" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6269" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6270" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6271" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6272" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6273" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6274" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6301" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6302" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="3999" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="4000" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="4001" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="4002" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="4003" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="4004" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="4005" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="4006" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="4007" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="4008" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="4009" type="TELEPORTER" stationary="true" npcId="35218" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="4010" type="TELEPORTER" stationary="true" npcId="35219" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="4011" type="TELEPORTER" stationary="true" npcId="35220" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="5" circletId="6840"> <!-- Aden Castle -->
+		<artifact val="35233" />
+		<controlTowers>
+			<tower loc="148774,2351,-389" />
+			<tower loc="147456,5724,158" />
+			<tower loc="146137,2352,-389" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="149976,1583,-450" zones="70001,71001,70002,71002,70003,71003,70004,71004" />
+			<tower loc="144955,1603,-450" zones="70005,71005,70006,71006,70007,71007,70008,71008" />
+		</flameTowers>
+		<relatedNpcIds val="35234;35274;35006;35008;35009;35278;31854;31855;31856;31857;31858;35235;35236;35237;35238;35239;35240;35241;35242;35243;35244;35245;35246;35247;35248;35249;35250;35251;35252;35253;35254;35255;35256;35257;35258;35259;35260;35261;35262;35263;35264;35265;35266;35267;35268;35270;35269;30764;30831;30745;30744;30746;30655;30610;30230;30684;30231;30301;30685;30232;30686;30687;30688;30233;30689;30690;30691;30692;30693;30694;30695;30696;30697;30698;30699;30700;30701;30702;30703;30704;30705;30706;30707;30708;30709;30710;30711;30712;30713;30714;30766;30837;30838;30842;30841;30839;30840;30845;30843;30844;30847;30846;30848;30849;30850;30852;30851;30853;30854;30855;30856;30857;30858;30860;30861;30859;30863;30862;30864;30865;30866;30867;30868;30869;30872;30873;30870;30871;30874;30875;30877;30876;30755;13001;35276;35249;35250;35254;35272;35273;35277;31053;31051;35275;31084;31091;31168;31169;35271;31576;31577;31666;31670;31667;31668;31669;31423;31431;31438;31445;31676;31678;31520;31739;31613;31614;31603;31604;35652" />
+		<tickets>
+			<ticket itemId="6090" type="SWORD" stationary="true" npcId="35030" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6091" type="POLE" stationary="true" npcId="35031" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6092" type="BOW" stationary="true" npcId="35032" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6093" type="CLERIC" stationary="true" npcId="35033" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6094" type="WIZARD" stationary="true" npcId="35034" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6095" type="SWORD" stationary="false" npcId="35035" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6096" type="POLE" stationary="false" npcId="35036" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6097" type="BOW" stationary="false" npcId="35037" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6098" type="CLERIC" stationary="false" npcId="35038" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6099" type="WIZARD" stationary="false" npcId="35039" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6155" type="SWORD" stationary="true" npcId="35020" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6156" type="POLE" stationary="true" npcId="35021" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6157" type="BOW" stationary="true" npcId="35022" maxAmount="20" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6158" type="CLERIC" stationary="true" npcId="35023" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6159" type="WIZARD" stationary="true" npcId="35024" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6160" type="SWORD" stationary="false" npcId="35025" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6161" type="POLE" stationary="false" npcId="35026" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6162" type="BOW" stationary="false" npcId="35027" maxAmount="20" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6163" type="CLERIC" stationary="false" npcId="35028" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6164" type="WIZARD" stationary="false" npcId="35029" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6215" type="SWORD" stationary="true" npcId="35040" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6216" type="POLE" stationary="true" npcId="35041" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6217" type="BOW" stationary="true" npcId="35042" maxAmount="10" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6218" type="CLERIC" stationary="true" npcId="35043" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6219" type="WIZARD" stationary="true" npcId="35044" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6220" type="SWORD" stationary="false" npcId="35045" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6221" type="POLE" stationary="false" npcId="35046" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6222" type="BOW" stationary="false" npcId="35047" maxAmount="10" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6223" type="CLERIC" stationary="false" npcId="35048" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6224" type="WIZARD" stationary="false" npcId="35049" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6275" type="SWORD" stationary="true" npcId="35050" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6276" type="POLE" stationary="true" npcId="35051" maxAmount="6" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6277" type="BOW" stationary="true" npcId="35052" maxAmount="20" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6278" type="CLERIC" stationary="true" npcId="35053" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6279" type="WIZARD" stationary="true" npcId="35054" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6280" type="SWORD" stationary="false" npcId="35055" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6281" type="POLE" stationary="false" npcId="35056" maxAmount="6" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6282" type="BOW" stationary="false" npcId="35057" maxAmount="20" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6283" type="CLERIC" stationary="false" npcId="35058" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6284" type="WIZARD" stationary="false" npcId="35059" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6303" type="SWORD" stationary="false" npcId="35060" maxAmount="2" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6304" type="WIZARD" stationary="false" npcId="35061" maxAmount="2" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="4012" type="SWORD" stationary="true" npcId="35010" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="4013" type="POLE" stationary="true" npcId="35011" maxAmount="6" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="4014" type="BOW" stationary="true" npcId="35012" maxAmount="20" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="4015" type="CLERIC" stationary="true" npcId="35013" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="4016" type="WIZARD" stationary="true" npcId="35014" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="4017" type="SWORD" stationary="false" npcId="35015" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="4018" type="POLE" stationary="false" npcId="35016" maxAmount="6" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="4019" type="BOW" stationary="false" npcId="35017" maxAmount="20" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="4020" type="CLERIC" stationary="false" npcId="35018" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="4021" type="WIZARD" stationary="false" npcId="35019" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="4022" type="TELEPORTER" stationary="true" npcId="35261" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="4023" type="TELEPORTER" stationary="true" npcId="35262" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="4024" type="TELEPORTER" stationary="true" npcId="35263" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+			<ticket itemId="4025" type="TELEPORTER" stationary="true" npcId="35264" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter4) -->
+			<ticket itemId="4026" type="TELEPORTER" stationary="true" npcId="35265" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter5) -->
+		</tickets>
+	</castle>
+	<castle id="6" circletId="6834"> <!-- Innadril Castle -->
+		<artifact val="35279" />
+		<controlTowers>
+			<tower loc="116236,245718,-667" />
+			<tower loc="115959,251431,-667" />
+			<tower loc="116024,249932,-633" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="116065,250938,-850" zones="70017,71017" />
+			<tower loc="117240,250375,-674" zones="70018,71018" />
+		</flameTowers>
+		<relatedNpcIds val="35316;35320;35311;35308;35309;35310;35312;35313;35296;35297;35301;35314;35315;35318;30918;30919;30916;30917;35319;30921;30920;35319;30922;30923;30890;30891;31050;30892;30893;31042;30990;30895;30894;30896;30969;30897;30898;30899;30900;30901;30902;30903;30904;30905;30906;30908;30907;30909;30910;30911;30912;30973;30913;30914;30915;30924;30925;30926;30927;30970;30971;31067;31050;35317;31082;31089;31575;31421;31429;31436;31443;35653" />
+		<tickets>
+			<ticket itemId="6105" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6106" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6107" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6108" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6109" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6110" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6111" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6112" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6113" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6114" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6165" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6166" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6167" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6168" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6169" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6170" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6171" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6172" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6173" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6174" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6225" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6226" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6227" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6228" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6229" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6230" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6231" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6232" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6233" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6234" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6285" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6286" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6287" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6288" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6289" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6290" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6291" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6292" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6293" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6294" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6305" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="6306" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="5205" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="5206" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="5207" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="5208" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="5209" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="5210" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="5211" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="5212" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="5213" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="5214" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="5215" type="TELEPORTER" stationary="true" npcId="35308" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="5218" type="TELEPORTER" stationary="true" npcId="35309" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="5219" type="TELEPORTER" stationary="true" npcId="35310" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="7" circletId="6836"> <!-- Goddard Castle -->
+		<artifact val="35322;35323" />
+		<controlTowers>
+			<tower loc="144672,-48832,-1742" />
+			<tower loc="150240,-48832,-1742" />
+			<tower loc="147456,-49200,-1619" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="148144,-46992,-1609" zones="70019,71019" />
+			<tower loc="146784,-46992,-1609" zones="70020,71020" />
+		</flameTowers>
+		<relatedNpcIds val="35363;35365;35364;35367;35361;35362;35366;31256;31257;31258;31259;31260;31261;31262;31263;31264;31265;31267;31268;31269;31270;31271;31272;31273;31274;31275;31276;31277;31278;31279;31280;31281;31282;31283;31284;31285;31286;31287;31288;31289;31290;31291;31292;31293;31294;31295;31296;31297;31298;31299;31579;35352;35353;35354;35355;35356;35357;35358;35359;35360;35351;35340;31680;31682;31692;31693;31700;31701;31702;31703;31704;31740;31741;31231;31232;31233;31234;31247;31248;31249;31250;31692;31693;31608;31600;31597;31587;31588;31589;31583;31584;31697;35654" />
+		<tickets>
+			<ticket itemId="6792" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6793" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6794" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6795" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6796" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6797" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6798" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6799" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6800" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6801" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6802" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6803" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6804" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6805" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6806" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6807" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6808" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6809" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6810" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6811" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6812" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6813" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6814" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6815" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6816" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6817" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6818" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6819" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6820" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6821" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6822" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6823" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6824" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6825" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6826" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6827" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6828" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6829" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6830" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6831" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6832" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6833" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6779" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="6780" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="6781" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="6782" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="6783" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="6784" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="6785" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="6786" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="6787" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="6788" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="6789" type="TELEPORTER" stationary="true" npcId="35352" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="6790" type="TELEPORTER" stationary="true" npcId="35353" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="6791" type="TELEPORTER" stationary="true" npcId="35354" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+	<castle id="8" circletId="8182"> <!-- Rune Castle -->
+		<artifact val="35469" />
+		<controlTowers>
+			<tower loc="16565,-50318,-641" />
+			<tower loc="16559,-48000,-641" />
+			<tower loc="10775,-48481,83" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="12864,-47440,-1087" zones="70021,71021" />
+			<tower loc="12225,-50767,1248" zones="70022,71022" />
+		</flameTowers>
+		<relatedNpcIds val="35470;35471;35472;35473;35474;35475;35476;35477;35478;35479;35480;35481;35482;35483;35484;35485;35486;35487;35488;35489;35490;35491;35492;35493;35494;35495;35496;35497;35498;35499;35499;35499;35502;35503;35504;35505;35499;35507;35508;35509;35510;35511;35644;35513;31679;31681;31300;31301;31302;31303;31304;31305;31306;31307;31308;31309;31311;31312;31313;31314;31315;31316;31317;31318;31319;31320;31321;31322;31323;31324;31325;31326;31327;31328;31329;31330;31331;31332;31333;31334;31335;31336;31337;31338;31339;31340;31341;31342;31343;31344;31345;31346;31347;31348;31349;31350;31351;31578;31694;31695;31696;31698;31699;31742;31743;31744;31235;31236;31237;31238;31251;31252;31253;31254;31694;31695;31594;31366;31386;31387;31388;31389;31592;29054;35655" />
+		<tickets>
+			<ticket itemId="7988" type="SWORD" stationary="true" npcId="35030" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7989" type="POLE" stationary="true" npcId="35031" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7990" type="BOW" stationary="true" npcId="35032" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7991" type="CLERIC" stationary="true" npcId="35033" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7992" type="WIZARD" stationary="true" npcId="35034" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7993" type="SWORD" stationary="false" npcId="35035" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7994" type="POLE" stationary="false" npcId="35036" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7995" type="BOW" stationary="false" npcId="35037" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7996" type="CLERIC" stationary="false" npcId="35038" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7997" type="WIZARD" stationary="false" npcId="35039" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7998" type="SWORD" stationary="true" npcId="35020" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7999" type="POLE" stationary="true" npcId="35021" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="8000" type="BOW" stationary="true" npcId="35022" maxAmount="20" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="8001" type="CLERIC" stationary="true" npcId="35023" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="8002" type="WIZARD" stationary="true" npcId="35024" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="8003" type="SWORD" stationary="false" npcId="35025" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="8004" type="POLE" stationary="false" npcId="35026" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="8005" type="BOW" stationary="false" npcId="35027" maxAmount="20" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="8006" type="CLERIC" stationary="false" npcId="35028" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="8007" type="WIZARD" stationary="false" npcId="35029" maxAmount="4" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="8008" type="SWORD" stationary="true" npcId="35040" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="8009" type="POLE" stationary="true" npcId="35041" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="8010" type="BOW" stationary="true" npcId="35042" maxAmount="10" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="8011" type="CLERIC" stationary="true" npcId="35043" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="8012" type="WIZARD" stationary="true" npcId="35044" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="8013" type="SWORD" stationary="false" npcId="35045" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="8014" type="POLE" stationary="false" npcId="35046" maxAmount="4" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="8015" type="BOW" stationary="false" npcId="35047" maxAmount="10" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="8016" type="CLERIC" stationary="false" npcId="35048" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="8017" type="WIZARD" stationary="false" npcId="35049" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="8018" type="SWORD" stationary="true" npcId="35050" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="8019" type="POLE" stationary="true" npcId="35051" maxAmount="6" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="8020" type="BOW" stationary="true" npcId="35052" maxAmount="20" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="8021" type="CLERIC" stationary="true" npcId="35053" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="8022" type="WIZARD" stationary="true" npcId="35054" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="8023" type="SWORD" stationary="false" npcId="35055" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="8024" type="POLE" stationary="false" npcId="35056" maxAmount="6" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="8025" type="BOW" stationary="false" npcId="35057" maxAmount="20" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="8026" type="CLERIC" stationary="false" npcId="35058" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="8027" type="WIZARD" stationary="false" npcId="35059" maxAmount="4" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="8028" type="SWORD" stationary="false" npcId="35060" maxAmount="2" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="8029" type="WIZARD" stationary="false" npcId="35061" maxAmount="2" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="7973" type="SWORD" stationary="true" npcId="35010" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7974" type="POLE" stationary="true" npcId="35011" maxAmount="6" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7975" type="BOW" stationary="true" npcId="35012" maxAmount="20" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7976" type="CLERIC" stationary="true" npcId="35013" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7977" type="WIZARD" stationary="true" npcId="35014" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7978" type="SWORD" stationary="false" npcId="35015" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7979" type="POLE" stationary="false" npcId="35016" maxAmount="6" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7980" type="BOW" stationary="false" npcId="35017" maxAmount="20" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7981" type="CLERIC" stationary="false" npcId="35018" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7982" type="WIZARD" stationary="false" npcId="35019" maxAmount="4" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7983" type="TELEPORTER" stationary="true" npcId="35497" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="7984" type="TELEPORTER" stationary="true" npcId="35498" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="7985" type="TELEPORTER" stationary="true" npcId="35499" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+			<ticket itemId="7986" type="TELEPORTER" stationary="true" npcId="35500" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter4) -->
+			<ticket itemId="7987" type="TELEPORTER" stationary="true" npcId="35501" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter5) -->
+		</tickets>
+	</castle>
+	<castle id="9" circletId="8183"> <!-- Schuttgart Castle -->
+		<artifact val="35514;35515" />
+		<controlTowers>
+			<tower loc="80334,-152898,-8" />
+			<tower loc="74775,-152928,-8" />
+			<tower loc="77547,-153246,112" />
+		</controlTowers>
+		<flameTowers>
+			<tower loc="76872,-151043,120" zones="70023,71023" />
+			<tower loc="78233,-151037,120" zones="70024,71024" />
+		</flameTowers>
+		<relatedNpcIds val="35555;35557;35556;35559;35553;35554;35558;31950;31949;31951;31952;31948;31947;31946;31945;31953;31954;31956;31957;31958;32092;31959;31990;31961;31962;31963;31964;31965;32094;31967;31966;31968;32095;31970;31969;31971;31972;31973;32098;31996;31974;32096;31976;32097;31977;31978;31979;31980;31989;35544;35545;35546;35547;35548;35549;35550;35551;35552;35543;35532;35518;35519;35520;35521;35522;35523;35524;35525;35526;35527;35528;35529;35530;35531;35533;35534;35535;35536;35536;35537;35538;35539;35540;35541;35542;31997;31998;32003;32004;32005;32006;31999;32000;32001;32002;32057;32093;31960;31975;31981;31982;31983;31984;31985;31986;31987;31988;35656" />
+		<tickets>
+			<ticket itemId="7931" type="SWORD" stationary="true" npcId="35030" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7932" type="POLE" stationary="true" npcId="35031" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7933" type="BOW" stationary="true" npcId="35032" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7934" type="CLERIC" stationary="true" npcId="35033" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7935" type="WIZARD" stationary="true" npcId="35034" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7936" type="SWORD" stationary="false" npcId="35035" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7937" type="POLE" stationary="false" npcId="35036" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7938" type="BOW" stationary="false" npcId="35037" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7939" type="CLERIC" stationary="false" npcId="35038" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7940" type="WIZARD" stationary="false" npcId="35039" maxAmount="1" ssq="NORMAL;DAWN" /> <!-- Greater Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7941" type="SWORD" stationary="true" npcId="35020" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7942" type="POLE" stationary="true" npcId="35021" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7943" type="BOW" stationary="true" npcId="35022" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7944" type="CLERIC" stationary="true" npcId="35023" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7945" type="WIZARD" stationary="true" npcId="35024" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7946" type="SWORD" stationary="false" npcId="35025" maxAmount="5" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7947" type="POLE" stationary="false" npcId="35026" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7948" type="BOW" stationary="false" npcId="35027" maxAmount="10" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7949" type="CLERIC" stationary="false" npcId="35028" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7950" type="WIZARD" stationary="false" npcId="35029" maxAmount="2" ssq="DAWN" /> <!-- Dawn Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7951" type="SWORD" stationary="true" npcId="35040" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7952" type="POLE" stationary="true" npcId="35041" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7953" type="BOW" stationary="true" npcId="35042" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7954" type="CLERIC" stationary="true" npcId="35043" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7955" type="WIZARD" stationary="true" npcId="35044" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7956" type="SWORD" stationary="false" npcId="35045" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7957" type="POLE" stationary="false" npcId="35046" maxAmount="2" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7958" type="BOW" stationary="false" npcId="35047" maxAmount="5" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7959" type="CLERIC" stationary="false" npcId="35048" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7960" type="WIZARD" stationary="false" npcId="35049" maxAmount="1" ssq="DUSK" /> <!-- Greater Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7961" type="SWORD" stationary="true" npcId="35050" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7962" type="POLE" stationary="true" npcId="35051" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7963" type="BOW" stationary="true" npcId="35052" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7964" type="CLERIC" stationary="true" npcId="35053" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7965" type="WIZARD" stationary="true" npcId="35054" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7966" type="SWORD" stationary="false" npcId="35055" maxAmount="5" ssq="DUSK" /> <!-- Recruit Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7967" type="POLE" stationary="false" npcId="35056" maxAmount="3" ssq="DUSK" /> <!-- Recruit Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7968" type="BOW" stationary="false" npcId="35057" maxAmount="10" ssq="DUSK" /> <!-- Recruit Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7969" type="CLERIC" stationary="false" npcId="35058" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7970" type="WIZARD" stationary="false" npcId="35059" maxAmount="2" ssq="DUSK" /> <!-- Recruit Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7971" type="SWORD" stationary="false" npcId="35060" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Warrior Posting Ticket -->
+			<ticket itemId="7972" type="WIZARD" stationary="false" npcId="35061" maxAmount="1" ssq="DAWN" /> <!-- Nephilim Shaman Posting Ticket -->
+			<ticket itemId="7918" type="SWORD" stationary="true" npcId="35010" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Stationary) -->
+			<ticket itemId="7919" type="POLE" stationary="true" npcId="35011" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Stationary) -->
+			<ticket itemId="7920" type="BOW" stationary="true" npcId="35012" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Stationary) -->
+			<ticket itemId="7921" type="CLERIC" stationary="true" npcId="35013" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Stationary) -->
+			<ticket itemId="7922" type="WIZARD" stationary="true" npcId="35014" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Stationary) -->
+			<ticket itemId="7923" type="SWORD" stationary="false" npcId="35015" maxAmount="5" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Sword/Mobile) -->
+			<ticket itemId="7924" type="POLE" stationary="false" npcId="35016" maxAmount="3" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Spear/Mobile) -->
+			<ticket itemId="7925" type="BOW" stationary="false" npcId="35017" maxAmount="10" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Bow/Mobile) -->
+			<ticket itemId="7926" type="CLERIC" stationary="false" npcId="35018" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Cleric/Mobile) -->
+			<ticket itemId="7927" type="WIZARD" stationary="false" npcId="35019" maxAmount="2" ssq="NORMAL;DAWN" /> <!-- Mercenary Posting Ticket (Wizard/Mobile) -->
+			<ticket itemId="7928" type="TELEPORTER" stationary="true" npcId="35544" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter1) -->
+			<ticket itemId="7929" type="TELEPORTER" stationary="true" npcId="35545" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter2) -->
+			<ticket itemId="7930" type="TELEPORTER" stationary="true" npcId="35546" maxAmount="1" ssq="NORMAL;DAWN;DUSK" /> <!-- Mercenary Posting Ticket (Teleporter3) -->
+		</tickets>
+	</castle>
+</list>

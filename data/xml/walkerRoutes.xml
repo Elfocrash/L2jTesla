@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<route npcId="31356" run="true">
+		<node X="-81681" Y="243384" Z="-3712" delay="61" chat="A delivery for Mr. Lector? Very good!"/>
+		<node X="-81915" Y="243870" Z="-3712" delay="1"/>
+		<node X="-82084" Y="243659" Z="-3712"/>
+		<node X="-83148" Y="243731" Z="-3728"/>
+		<node X="-84497" Y="243241" Z="-3728" delay="6" chat="I need a break!"/>
+		<node X="-85212" Y="243184" Z="-3728"/>
+		<node X="-86161" Y="242898" Z="-3728"/>
+		<node X="-86281" Y="242963" Z="-3720"/>
+		<node X="-86356" Y="243201" Z="-3720" delay="7" chat="Hello, Mr. Lector! Long time no see, Mr. Jackson!"/>
+		<node X="-86491" Y="242781" Z="-3720"/>
+		<node X="-86497" Y="242585" Z="-3728"/>
+		<node X="-86114" Y="241587" Z="-3728"/>
+		<node X="-85184" Y="240679" Z="-3728"/>
+		<node X="-84099" Y="241264" Z="-3728" delay="6" chat="Lulu! Lulu!"/>
+		<node X="-83709" Y="241238" Z="-3728" chat="Lulu!"/>
+		<node X="-83075" Y="241150" Z="-3728" delay="1"/>
+		<node X="-82383" Y="242926" Z="-3720" delay="1"/>
+	</route>
+	<route npcId="31357" run="false">
+		<node X="-86328" Y="241120" Z="-3734" delay="60" chat="Where did he go?"/>
+		<node X="-86505" Y="240727" Z="-3704"/>
+		<node X="-86081" Y="240402" Z="-3712"/>
+		<node X="-86078" Y="240853" Z="-3720" delay="15" chat="Have you seen Windawood?"/>
+		<node X="-85957" Y="241389" Z="-3728"/>
+		<node X="-83993" Y="242766" Z="-3728" delay="10" chat="Where has he gone?"/>
+		<node X="-82952" Y="244461" Z="-3728"/>
+		<node X="-82370" Y="244919" Z="-3720"/>
+		<node X="-82129" Y="245020" Z="-3720"/>
+		<node X="-82198" Y="245350" Z="-3712"/>
+		<node X="-82554" Y="245137" Z="-3716" delay="1"/>
+		<node X="-82198" Y="245350" Z="-3712"/>
+		<node X="-82129" Y="245020" Z="-3720"/>
+		<node X="-82370" Y="244919" Z="-3720"/>
+		<node X="-82952" Y="244461" Z="-3728"/>
+		<node X="-83993" Y="242766" Z="-3728" delay="10" chat="Where has he gone?"/>
+		<node X="-85957" Y="241389" Z="-3728"/>
+		<node X="-86078" Y="240853" Z="-3720" delay="15" chat="Have you seen Windawood?"/>
+		<node X="-86081" Y="240402" Z="-3712"/>
+		<node X="-86505" Y="240727" Z="-3704"/>
+	</route>
+	<route npcId="31358" run="false">
+		<node X="47015" Y="51278" Z="-2992" delay="65" chat="Lady Mirabel, may the peace of the lake be with you!"/>
+		<node X="47437" Y="50441" Z="-2992"/>
+		<node X="47509" Y="49038" Z="-2992"/>
+		<node X="46725" Y="47755" Z="-2992"/>
+		<node X="45319" Y="47339" Z="-2992" delay="5" chat="The Mother Tree is always so gorgeous!"/>
+		<node X="43998" Y="47672" Z="-2992"/>
+		<node X="43037" Y="49310" Z="-2992"/>
+		<node X="43310" Y="50382" Z="-2992"/>
+		<node X="43896" Y="51060" Z="-2992"/>
+		<node X="43312" Y="50362" Z="-2992"/>
+		<node X="43040" Y="49311" Z="-2992"/>
+		<node X="44018" Y="47645" Z="-2992"/>
+		<node X="45301" Y="47340" Z="-2992" delay="5" chat="The Mother Tree is always so gorgeous!"/>
+		<node X="46693" Y="47752" Z="-2992"/>
+		<node X="47489" Y="48976" Z="-2992"/>
+		<node X="47441" Y="50455" Z="-2992"/>
+	</route>
+	<route npcId="31359" run="false">
+		<node X="45744" Y="50561" Z="-3065" delay="61"/>
+		<node X="46444" Y="49742" Z="-3065" delay="2"/>
+		<node X="46103" Y="48798" Z="-3065" delay="5" chat="How can we save the Mother Tree?"/>
+		<node X="45403" Y="48436" Z="-3065" delay="5" chat="The Mother Tree is slowly dying."/>
+		<node X="44444" Y="49078" Z="-3065"/>
+		<node X="44414" Y="50025" Z="-3065"/>
+		<node X="44957" Y="50568" Z="-3065"/>
+		<node X="44414" Y="50025" Z="-3065"/>
+		<node X="44444" Y="49078" Z="-3065"/>
+		<node X="45403" Y="48436" Z="-3065" delay="5" chat="The Mother Tree is slowly dying."/>
+		<node X="46103" Y="48798" Z="-3065" delay="5" chat="How can we save the Mother Tree?"/>
+		<node X="46444" Y="49742" Z="-3065" delay="2"/>
+	</route>
+	<route npcId="31360" run="false">
+		<node X="10826" Y="14777" Z="-4240" delay="62"/>
+		<node X="10966" Y="14626" Z="-4240"/>
+		<node X="11264" Y="15838" Z="-4584"/>
+		<node X="12100" Y="16378" Z="-4590" delay="2"/>
+		<node X="15088" Y="15664" Z="-4376" delay="6" chat="You're a hard worker, Rayla!"/>
+		<node X="15232" Y="16279" Z="-4383" delay="7"/>
+		<node X="12217" Y="16916" Z="-4590"/>
+		<node X="11811" Y="17553" Z="-4580"/>
+		<node X="11275" Y="17628" Z="-4589"/>
+		<node X="10649" Y="17284" Z="-4584"/>
+		<node X="7691" Y="18030" Z="-4376" delay="6" chat="You're a hard worker!"/>
+		<node X="10593" Y="16738" Z="-4590" delay="2"/>
+		<node X="11127" Y="16044" Z="-4589" delay="2"/>
+	</route>
+	<route npcId="31361" run="true">
+		<node X="22418" Y="10249" Z="-3648" delay="61"/>
+		<node X="23423" Y="11165" Z="-3720"/>
+		<node X="20182" Y="11101" Z="-3720"/>
+		<node X="17327" Y="13603" Z="-3728" delay="1"/>
+		<node X="17410" Y="13038" Z="-3736" delay="10" chat="The mass of darkness will start in a couple of days. Pay more attention to the guard!"/>
+		<node X="20176" Y="12902" Z="-3712"/>
+		<node X="21669" Y="13378" Z="-3616"/>
+		<node X="20675" Y="10401" Z="-3712"/>
+	</route>
+	<route npcId="31362" run="false">
+		<node X="114847" Y="-180066" Z="-877" delay="30" chat="Mr. Lid, Murdoc, and Airy! How are you doing?"/>
+		<node X="114834" Y="-179685" Z="-877" delay="2"/>
+		<node X="116122" Y="-179457" Z="-1068" delay="1"/>
+		<node X="116798" Y="-180391" Z="-1200" delay="2"/>
+		<node X="116324" Y="-181564" Z="-1384" delay="2"/>
+		<node X="115797" Y="-181563" Z="-1336"/>
+		<node X="116054" Y="-181575" Z="-1352" chat="Care to go a round?"/>
+		<node X="116506" Y="-181478" Z="-1384" delay="2"/>
+		<node X="116634" Y="-180029" Z="-1160" delay="1"/>
+		<node X="115347" Y="-178623" Z="-928" delay="1"/>
+		<node X="115763" Y="-177591" Z="-888" delay="2"/>
+		<node X="115801" Y="-177342" Z="-880" delay="1" chat="Have a nice day, Mr. Garita and Mion!"/>
+		<node X="115869" Y="-177340" Z="-880" delay="15"/>
+		<node X="115788" Y="-177482" Z="-880" delay="3"/>
+		<node X="115124" Y="-179821" Z="-885" delay="1"/>
+		<node X="115103" Y="-180065" Z="-877" delay="1"/>
+	</route>
+	<route npcId="31363" run="true">
+		<node X="116731" Y="-182477" Z="-1512" delay="10" chat="Where is that fool hiding?"/>
+		<node X="115870" Y="-183280" Z="-1472"/>
+		<node X="115746" Y="-183428" Z="-1472" delay="1"/>
+		<node X="115870" Y="-183280" Z="-1472" delay="1"/>
+		<node X="115999" Y="-183246" Z="-1480"/>
+		<node X="116094" Y="-183113" Z="-1480" delay="1"/>
+		<node X="116584" Y="-184294" Z="-1568" delay="11" chat="Have you seen Torocco today?"/>
+		<node X="116392" Y="-184100" Z="-1560" delay="1"/>
+		<node X="117093" Y="-182524" Z="-1528" delay="1"/>
+		<node X="117789" Y="-182540" Z="-1528" delay="11" chat="Have you seen Torocco?"/>
+	</route>
+	<route npcId="31364" run="false">
+		<node X="-46506" Y="-109402" Z="-238" delay="10"/>
+		<node X="-45752" Y="-111652" Z="-240"/>
+		<node X="-44028" Y="-112688" Z="-240"/>
+		<node X="-44049" Y="-114536" Z="-240"/>
+		<node X="-45540" Y="-115415" Z="-240"/>
+		<node X="-46526" Y="-117731" Z="-240"/>
+		<node X="-45540" Y="-115415" Z="-240"/>
+		<node X="-44049" Y="-114536" Z="-240"/>
+		<node X="-44028" Y="-112688" Z="-240"/>
+		<node X="-45752" Y="-111652" Z="-240"/>
+	</route>
+	<route npcId="31365" run="false">
+		<node X="-48807" Y="-113489" Z="-241" delay="61"/>
+		<node X="-48821" Y="-113746" Z="-232" delay="1"/>
+		<node X="-48823" Y="-113505" Z="-232" delay="61"/>
+		<node X="-47339" Y="-113581" Z="-232" delay="1"/>
+		<node X="-45740" Y="-113562" Z="-240"/>
+		<node X="-44851" Y="-112965" Z="-240"/>
+		<node X="-44308" Y="-113207" Z="-240"/>
+		<node X="-44204" Y="-113743" Z="-240"/>
+		<node X="-44659" Y="-114171" Z="-240"/>
+		<node X="-45167" Y="-114034" Z="-224"/>
+		<node X="-45658" Y="-113633" Z="-240"/>
+		<node X="-47363" Y="-113621" Z="-224"/>
+		<node X="-48829" Y="-113746" Z="-232"/>
+		<node X="-47363" Y="-113621" Z="-224"/>
+		<node X="-45658" Y="-113633" Z="-240"/>
+		<node X="-45167" Y="-114034" Z="-224"/>
+		<node X="-44659" Y="-114171" Z="-240"/>
+		<node X="-44204" Y="-113743" Z="-240"/>
+		<node X="-44308" Y="-113207" Z="-240"/>
+		<node X="-44851" Y="-112965" Z="-240"/>
+		<node X="-45740" Y="-113562" Z="-240" delay="1"/>
+	</route>
+	<route npcId="32070" run="true">
+		<node X="90271" Y="-143869" Z="-1547" delay="10"/>
+		<node X="90605" Y="-143167" Z="-1536" delay="1"/>
+		<node X="89343" Y="-140746" Z="-1536" delay="1"/>
+		<node X="87351" Y="-140059" Z="-1536" delay="5"/>
+		<node X="85234" Y="-140963" Z="-1536" delay="1"/>
+		<node X="84465" Y="-142493" Z="-1536" delay="1"/>
+		<node X="84434" Y="-144061" Z="-1528" delay="10"/>
+		<node X="84465" Y="-142493" Z="-1536" delay="1"/>
+		<node X="85234" Y="-140963" Z="-1536" delay="1"/>
+		<node X="87351" Y="-140059" Z="-1536" delay="5"/>
+		<node X="89343" Y="-140746" Z="-1536" delay="1"/>
+		<node X="90605" Y="-143167" Z="-1536" delay="1"/>
+	</route>
+	<route npcId="32072" run="false">
+		<node X="84429" Y="-144065" Z="-1542" delay="10"/>
+		<node X="84465" Y="-142493" Z="-1536"/>
+		<node X="85234" Y="-140963" Z="-1536"/>
+		<node X="87351" Y="-140059" Z="-1536" delay="5"/>
+		<node X="89343" Y="-140746" Z="-1536"/>
+		<node X="90605" Y="-143167" Z="-1536"/>
+		<node X="90271" Y="-143869" Z="-1536" delay="10"/>
+		<node X="90605" Y="-143167" Z="-1536"/>
+		<node X="89343" Y="-140746" Z="-1536"/>
+		<node X="87351" Y="-140059" Z="-1536" delay="5"/>
+		<node X="85234" Y="-140963" Z="-1536"/>
+		<node X="84465" Y="-142493" Z="-1536"/>
+	</route>
+</list>

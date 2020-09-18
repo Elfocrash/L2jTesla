@@ -1,0 +1,56 @@
+<html><body>
+	<table width=270>
+		<tr>
+			<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td width=180><center>%castleName% castle</center></td>
+			<td width=45><button value="Back" action="bypass -h admin_siege" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table><br>
+	<center>
+	<table width=270>
+		<tr>
+			<td width=150>Circlet id: %circletId%</td><td width=120>Left cert.: %certificates% (<a action="bypass -h admin_reset_certificates %castleName%">reset</a>)</td>
+		</tr><tr>
+			<td>Artifact id: %artifactId%</td><td></td>
+		</tr><tr>
+			<td>Ticket templates: %ticketsNumber%</td><td>NPCs number: %npcsNumber%</td>
+		</tr><tr>
+			<td>Dropped tickets: %droppedTicketsNumber%</td><td></td>
+		</tr>
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><font color="LEVEL">Control Towers</font></td>
+		</tr><tr>
+			<td>%ct%</td>
+		</tr>
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><font color="LEVEL">Flame Towers</font></td>
+		</tr><tr>
+			<td>%ft%</td>
+		</tr>
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><button value="Add Attacker" action="bypass -h admin_add_attacker %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Start Siege" action="bypass -h admin_startsiege %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Give Castle" action="bypass -h admin_setcastle %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="Add Defender" action="bypass -h admin_add_defender %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="End Siege" action="bypass -h admin_endsiege %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Remove Castle" action="bypass -h admin_removecastle %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table><br>
+	<table width=160>
+		<tr>
+			<td><button value="Move Defenders" action="bypass -h admin_move_defenders %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="List Clans" action="bypass -h admin_list_siege_clans %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="Spawn Doors" action="bypass -h admin_spawn_doors %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Clear List" action="bypass -h admin_clear_siege_list %castleName%" width=80 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+	</center>
+</body></html>

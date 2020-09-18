@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Castle Siege Zones -->
+	<zone shape="NPoly" minZ="-4448" maxZ="3551"><!-- gludio_castle_battlefield_territory -->
+		<stat name="castleId" val="1" />
+		<node x="-22615" y="104510" />
+		<node x="-13290" y="104564" />
+		<node x="-13313" y="116950" />
+		<node x="-22638" y="116896" />
+		<!-- chao_restart_point_list -->
+		<spawn x="-81616" y="157104" z="-3150" isChaotic="true" />
+		<spawn x="-80688" y="157216" z="-3150" isChaotic="true" />
+		<spawn x="-79568" y="156960" z="-3150" isChaotic="true" />
+		<spawn x="-78800" y="157744" z="-3150" isChaotic="true" />
+		<spawn x="-80448" y="157968" z="-3130" isChaotic="true" />
+		<spawn x="-81712" y="159536" z="-3230" isChaotic="true" />
+		<spawn x="-79744" y="160592" z="-3330" isChaotic="true" />
+		<spawn x="-79584" y="159408" z="-3180" isChaotic="true" />
+		<spawn x="-74016" y="150656" z="-2800" isChaotic="true" />
+		<spawn x="-72720" y="149632" z="-2780" isChaotic="true" />
+		<spawn x="-75904" y="162000" z="-3300" isChaotic="true" />
+		<spawn x="-75488" y="161472" z="-3250" isChaotic="true" />
+		<spawn x="-74688" y="160736" z="-3200" isChaotic="true" />
+		<spawn x="-74352" y="161488" z="-3250" isChaotic="true" />
+		<spawn x="-76656" y="160768" z="-3280" isChaotic="true" />
+		<spawn x="-77472" y="160960" z="-3470" isChaotic="true" />
+		<spawn x="-77776" y="158752" z="-3270" isChaotic="true" />
+		<spawn x="-80448" y="161488" z="-3420" isChaotic="true" />
+		<spawn x="-75440" y="162672" z="-3350" isChaotic="true" />
+		<spawn x="-81760" y="161248" z="-3200" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="-81447" y="152760" z="-3170" />
+		<spawn x="-81447" y="152880" z="-3170" />
+		<spawn x="-81447" y="152640" z="-3170" />
+		<spawn x="-82186" y="152760" z="-3170" />
+		<spawn x="-82186" y="152880" z="-3170" />
+		<spawn x="-82186" y="152640" z="-3170" />
+		<spawn x="-81780" y="152760" z="-3170" />
+		<spawn x="-81780" y="152880" z="-3170" />
+		<spawn x="-81780" y="152640" z="-3170" />
+	</zone>
+	<zone shape="NPoly" minZ="-4642" maxZ="4000"><!-- dion_castle_battlefield_territory -->
+		<stat name="castleId" val="2" />
+		<node x="26575" y="165240" />
+		<node x="17250" y="165186" />
+		<node x="17273" y="152800" />
+		<node x="26598" y="152854" />
+		<!-- chao_restart_point_list -->
+		<spawn x="-81616" y="157104" z="-3150" isChaotic="true" />
+		<spawn x="-80688" y="157216" z="-3150" isChaotic="true" />
+		<spawn x="-79568" y="156960" z="-3150" isChaotic="true" />
+		<spawn x="-78800" y="157744" z="-3150" isChaotic="true" />
+		<spawn x="-80448" y="157968" z="-3130" isChaotic="true" />
+		<spawn x="-81712" y="159536" z="-3230" isChaotic="true" />
+		<spawn x="-79744" y="160592" z="-3330" isChaotic="true" />
+		<spawn x="-79584" y="159408" z="-3180" isChaotic="true" />
+		<spawn x="-74016" y="150656" z="-2800" isChaotic="true" />
+		<spawn x="-72720" y="149632" z="-2780" isChaotic="true" />
+		<spawn x="-75904" y="162000" z="-3300" isChaotic="true" />
+		<spawn x="-75488" y="161472" z="-3250" isChaotic="true" />
+		<spawn x="-74688" y="160736" z="-3200" isChaotic="true" />
+		<spawn x="-74352" y="161488" z="-3250" isChaotic="true" />
+		<spawn x="-76656" y="160768" z="-3280" isChaotic="true" />
+		<spawn x="-77472" y="160960" z="-3470" isChaotic="true" />
+		<spawn x="-77776" y="158752" z="-3270" isChaotic="true" />
+		<spawn x="-80448" y="161488" z="-3420" isChaotic="true" />
+		<spawn x="-75440" y="162672" z="-3350" isChaotic="true" />
+		<spawn x="-81760" y="161248" z="-3200" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="-81447" y="152760" z="-3170" />
+		<spawn x="-81447" y="152880" z="-3170" />
+		<spawn x="-81447" y="152640" z="-3170" />
+		<spawn x="-82186" y="152760" z="-3170" />
+		<spawn x="-82186" y="152880" z="-3170" />
+		<spawn x="-82186" y="152640" z="-3170" />
+		<spawn x="-81780" y="152760" z="-3170" />
+		<spawn x="-81780" y="152880" z="-3170" />
+		<spawn x="-81780" y="152640" z="-3170" />
+	</zone>
+	<zone shape="NPoly" minZ="-4515" maxZ="19935"><!-- giran_castle_battlefield_territory -->
+		<stat name="castleId" val="3" />
+		<node x="121412" y="140594" />
+		<node x="121358" y="149919" />
+		<node x="108972" y="149896" />
+		<node x="109026" y="140571" />
+		<!-- chao_restart_point_list -->
+		<spawn x="122098" y="70373" z="-2864" isChaotic="true" />
+		<spawn x="118674" y="71218" z="-2743" isChaotic="true" />
+		<spawn x="118040" y="67175" z="-2905" isChaotic="true" />
+		<spawn x="119300" y="70660" z="-2850" isChaotic="true" />
+		<spawn x="118851" y="70566" z="-2800" isChaotic="true" />
+		<spawn x="112655" y="70976" z="-3122" isChaotic="true" />
+		<spawn x="119712" y="66376" z="-2960" isChaotic="true" />
+		<spawn x="107511" y="82890" z="-2515" isChaotic="true" />
+		<spawn x="105702" y="82773" z="-2803" isChaotic="true" />
+		<spawn x="104257" y="82194" z="-2581" isChaotic="true" />
+		<spawn x="104474" y="81109" z="-2651" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="116127" y="76015" z="-2729" />
+		<spawn x="115683" y="77610" z="-2650" />
+		<spawn x="117304" y="76318" z="-2670" />
+		<spawn x="119862" y="76603" z="-2220" />
+		<spawn x="117671" y="78998" z="-2210" />
+		<spawn x="117189" y="78952" z="-2210" />
+		<spawn x="115861" y="75200" z="-2550" />
+		<spawn x="118275" y="74859" z="-2557" />
+		<spawn x="118229" y="74677" z="-2450" />
+		<spawn x="115685" y="75072" z="-2550" />
+		<spawn x="116704" y="75695" z="-2680" />
+		<spawn x="116737" y="76738" z="-2650" />
+		<spawn x="115193" y="77594" z="-2670" />
+		<spawn x="116158" y="77443" z="-2660" />
+	</zone>
+	<zone shape="NPoly" minZ="-4242" maxZ="19935"><!-- oren_castle_battlefield_territory -->
+		<stat name="castleId" val="4" />
+		<node x="87488" y="32689" />
+		<node x="87434" y="42014" />
+		<node x="75048" y="41991" />
+		<node x="75102" y="32666" />
+		<!-- chao_restart_point_list -->
+		<spawn x="122098" y="70373" z="-2864" isChaotic="true" />
+		<spawn x="118674" y="71218" z="-2743" isChaotic="true" />
+		<spawn x="118040" y="67175" z="-2905" isChaotic="true" />
+		<spawn x="119300" y="70660" z="-2850" isChaotic="true" />
+		<spawn x="118851" y="70566" z="-2800" isChaotic="true" />
+		<spawn x="112655" y="70976" z="-3122" isChaotic="true" />
+		<spawn x="119712" y="66376" z="-2960" isChaotic="true" />
+		<spawn x="107511" y="82890" z="-2515" isChaotic="true" />
+		<spawn x="105702" y="82773" z="-2803" isChaotic="true" />
+		<spawn x="104257" y="82194" z="-2581" isChaotic="true" />
+		<spawn x="104474" y="81109" z="-2651" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="116127" y="76015" z="-2729" />
+		<spawn x="115683" y="77610" z="-2650" />
+		<spawn x="117304" y="76318" z="-2670" />
+		<spawn x="119862" y="76603" z="-2220" />
+		<spawn x="117671" y="78998" z="-2210" />
+		<spawn x="117189" y="78952" z="-2210" />
+		<spawn x="115861" y="75200" z="-2550" />
+		<spawn x="118275" y="74859" z="-2557" />
+		<spawn x="118229" y="74677" z="-2450" />
+		<spawn x="115685" y="75072" z="-2550" />
+		<spawn x="116704" y="75695" z="-2680" />
+		<spawn x="116737" y="76738" z="-2650" />
+		<spawn x="115193" y="77594" z="-2670" />
+		<spawn x="116158" y="77443" z="-2660" />
+	</zone>
+	<zone shape="NPoly" minZ="-3184" maxZ="6816"><!-- aden_castle_battlefield_territory -->
+		<stat name="castleId" val="5" />
+		<node x="142431" y="362" />
+		<node x="152319" y="344" />
+		<node x="152282" y="15197" />
+		<node x="142393" y="15215" />
+		<!-- chao_restart_point_list -->
+		<spawn x="122098" y="70373" z="-2864" isChaotic="true" />
+		<spawn x="118674" y="71218" z="-2743" isChaotic="true" />
+		<spawn x="118040" y="67175" z="-2905" isChaotic="true" />
+		<spawn x="119300" y="70660" z="-2850" isChaotic="true" />
+		<spawn x="118851" y="70566" z="-2800" isChaotic="true" />
+		<spawn x="112655" y="70976" z="-3122" isChaotic="true" />
+		<spawn x="119712" y="66376" z="-2960" isChaotic="true" />
+		<spawn x="107511" y="82890" z="-2515" isChaotic="true" />
+		<spawn x="105702" y="82773" z="-2803" isChaotic="true" />
+		<spawn x="104257" y="82194" z="-2581" isChaotic="true" />
+		<spawn x="104474" y="81109" z="-2651" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="116127" y="76015" z="-2729" />
+		<spawn x="115683" y="77610" z="-2650" />
+		<spawn x="117304" y="76318" z="-2670" />
+		<spawn x="119862" y="76603" z="-2220" />
+		<spawn x="117671" y="78998" z="-2210" />
+		<spawn x="117189" y="78952" z="-2210" />
+		<spawn x="115861" y="75200" z="-2550" />
+		<spawn x="118275" y="74859" z="-2557" />
+		<spawn x="118229" y="74677" z="-2450" />
+		<spawn x="115685" y="75072" z="-2550" />
+		<spawn x="116704" y="75695" z="-2680" />
+		<spawn x="116737" y="76738" z="-2650" />
+		<spawn x="115193" y="77594" z="-2670" />
+		<spawn x="116158" y="77443" z="-2660" />
+	</zone>
+	<zone shape="NPoly" minZ="-2738" maxZ="4000"><!-- innadrile_castle_battlefield_territory -->
+		<stat name="castleId" val="6" />
+		<node x="120526" y="254019" />
+		<node x="111201" y="253965" />
+		<node x="111224" y="241579" />
+		<node x="120549" y="241633" />
+		<!-- chao_restart_point_list -->
+		<spawn x="122098" y="70373" z="-2864" isChaotic="true" />
+		<spawn x="118674" y="71218" z="-2743" isChaotic="true" />
+		<spawn x="118040" y="67175" z="-2905" isChaotic="true" />
+		<spawn x="119300" y="70660" z="-2850" isChaotic="true" />
+		<spawn x="118851" y="70566" z="-2800" isChaotic="true" />
+		<spawn x="112655" y="70976" z="-3122" isChaotic="true" />
+		<spawn x="119712" y="66376" z="-2960" isChaotic="true" />
+		<spawn x="107511" y="82890" z="-2515" isChaotic="true" />
+		<spawn x="105702" y="82773" z="-2803" isChaotic="true" />
+		<spawn x="104257" y="82194" z="-2581" isChaotic="true" />
+		<spawn x="104474" y="81109" z="-2651" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="116127" y="76015" z="-2729" />
+		<spawn x="115683" y="77610" z="-2650" />
+		<spawn x="117304" y="76318" z="-2670" />
+		<spawn x="119862" y="76603" z="-2220" />
+		<spawn x="117671" y="78998" z="-2210" />
+		<spawn x="117189" y="78952" z="-2210" />
+		<spawn x="115861" y="75200" z="-2550" />
+		<spawn x="118275" y="74859" z="-2557" />
+		<spawn x="118229" y="74677" z="-2450" />
+		<spawn x="115685" y="75072" z="-2550" />
+		<spawn x="116704" y="75695" z="-2680" />
+		<spawn x="116737" y="76738" z="-2650" />
+		<spawn x="115193" y="77594" z="-2670" />
+		<spawn x="116158" y="77443" z="-2660" />
+	</zone>
+	<zone shape="NPoly" minZ="-3397" maxZ="2103"><!-- goddard_castle_battlefield_territory -->
+		<stat name="castleId" val="7" />
+		<node x="141457" y="-51510" />
+		<node x="151949" y="-51510" />
+		<node x="151949" y="-39107" />
+		<node x="145899" y="-39107" />
+		<node x="141457" y="-44407" />
+		<!-- chao_restart_point_list -->
+		<spawn x="42640" y="-54496" z="-2310" isChaotic="true" />
+		<spawn x="38304" y="-55440" z="-1136" isChaotic="true" />
+		<spawn x="40192" y="-57600" z="-2343" isChaotic="true" />
+		<spawn x="38400" y="-56832" z="-992" isChaotic="true" />
+		<spawn x="35632" y="-54800" z="-1744" isChaotic="true" />
+		<spawn x="36407" y="-54245" z="-1224" isChaotic="true" />
+		<spawn x="43936" y="-56480" z="-3627" isChaotic="true" />
+		<spawn x="39440" y="-60080" z="-2870" isChaotic="true" />
+		<spawn x="41376" y="-55376" z="-1488" isChaotic="true" />
+		<spawn x="41920" y="-57760" z="-2392" isChaotic="true" />
+		<spawn x="41409" y="-58699" z="-2848" isChaotic="true" />
+		<spawn x="40784" y="-59888" z="-2600" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="38096" y="-46976" z="899" />
+		<spawn x="38608" y="-47168" z="899" />
+		<spawn x="38752" y="-47792" z="899" />
+		<spawn x="38848" y="-48640" z="899" />
+		<spawn x="38272" y="-49008" z="899" />
+		<spawn x="38112" y="-49792" z="899" />
+		<spawn x="43408" y="-51120" z="-800" />
+		<spawn x="43536" y="-50416" z="-800" />
+		<spawn x="44368" y="-50592" z="-800" />
+		<spawn x="44000" y="-49952" z="-800" />
+		<spawn x="45072" y="-49936" z="-800" />
+		<spawn x="45824" y="-49056" z="-800" />
+		<spawn x="45632" y="-47968" z="-800" />
+		<spawn x="44864" y="-47824" z="-800" />
+		<spawn x="43744" y="-47920" z="-800" />
+		<spawn x="43792" y="-48928" z="-800" />
+	</zone>
+	<zone shape="NPoly" minZ="-5000" maxZ="6000"><!-- rune_castle_battlefield_territory -->
+		<stat name="castleId" val="8" />
+		<node x="7176" y="-56808" />
+		<node x="30168" y="-56808" />
+		<node x="31848" y="-46216" />
+		<node x="7096" y="-44376" />
+		<!-- chao_restart_point_list -->
+		<spawn x="142656" y="-55008" z="-3024" isChaotic="true" />
+		<spawn x="142832" y="-55680" z="-3462" isChaotic="true" />
+		<spawn x="143152" y="-56368" z="-3456" isChaotic="true" />
+		<spawn x="145344" y="-59472" z="-3344" isChaotic="true" />
+		<spawn x="145872" y="-59744" z="-3328" isChaotic="true" />
+		<spawn x="150304" y="-59800" z="-3504" isChaotic="true" />
+		<spawn x="145248" y="-60064" z="-3440" isChaotic="true" />
+		<spawn x="144368" y="-59616" z="-3512" isChaotic="true" />
+		<spawn x="149680" y="-59600" z="-3440" isChaotic="true" />
+		<spawn x="149360" y="-60576" z="-3520" isChaotic="true" />
+		<spawn x="152114" y="-57296" z="-3451" isChaotic="true" />
+		<spawn x="150492" y="-59719" z="-3611" isChaotic="true" />
+		<spawn x="148791" y="-60361" z="-3537" isChaotic="true" />
+		<spawn x="146499" y="-60242" z="-3455" isChaotic="true" />
+		<spawn x="143052" y="-56418" z="-3490" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="148560" y="-55904" z="-2779" />
+		<spawn x="150704" y="-55744" z="-2979" />
+		<spawn x="150400" y="-56752" z="-2979" />
+		<spawn x="149872" y="-57424" z="-2979" />
+	</zone>
+	<zone shape="NPoly" minZ="-1200" maxZ="2811"><!-- schuttgart_castle_battlefield_territory -->
+		<stat name="castleId" val="9" />
+		<node x="72910" y="-156527" />
+		<node x="83515" y="-155592" />
+		<node x="82619" y="-151121" />
+		<node x="82538" y="-149908" />
+		<node x="79963" y="-147085" />
+		<node x="78438" y="-145164" />
+		<node x="73876" y="-146537" />
+		<node x="73436" y="-148564" />
+		<node x="72514" y="-152031" />
+		<!-- chao_restart_point_list -->
+		<spawn x="42640" y="-54496" z="-2310" isChaotic="true" />
+		<spawn x="38304" y="-55440" z="-1136" isChaotic="true" />
+		<spawn x="40192" y="-57600" z="-2343" isChaotic="true" />
+		<spawn x="38400" y="-56832" z="-992" isChaotic="true" />
+		<spawn x="35632" y="-54800" z="-1744" isChaotic="true" />
+		<spawn x="36407" y="-54245" z="-1224" isChaotic="true" />
+		<spawn x="43936" y="-56480" z="-3627" isChaotic="true" />
+		<spawn x="39440" y="-60080" z="-2870" isChaotic="true" />
+		<spawn x="41376" y="-55376" z="-1488" isChaotic="true" />
+		<spawn x="41920" y="-57760" z="-2392" isChaotic="true" />
+		<spawn x="41409" y="-58699" z="-2848" isChaotic="true" />
+		<spawn x="40784" y="-59888" z="-2600" isChaotic="true" />
+		<!-- other_restart_village_list -->
+		<spawn x="38096" y="-46976" z="899" />
+		<spawn x="38608" y="-47168" z="899" />
+		<spawn x="38752" y="-47792" z="899" />
+		<spawn x="38848" y="-48640" z="899" />
+		<spawn x="38272" y="-49008" z="899" />
+		<spawn x="38112" y="-49792" z="899" />
+		<spawn x="43408" y="-51120" z="-800" />
+		<spawn x="43536" y="-50416" z="-800" />
+		<spawn x="44368" y="-50592" z="-800" />
+		<spawn x="44000" y="-49952" z="-800" />
+		<spawn x="45072" y="-49936" z="-800" />
+		<spawn x="45824" y="-49056" z="-800" />
+		<spawn x="45632" y="-47968" z="-800" />
+		<spawn x="44864" y="-47824" z="-800" />
+		<spawn x="43744" y="-47920" z="-800" />
+		<spawn x="43792" y="-48928" z="-800" />
+	</zone>
+	<!-- Clan Hall Siege Zones -->
+	<zone shape="NPoly" minZ="-2344" maxZ="-1544"><!-- partisan_agit001 -->
+		<stat name="clanHallId" val="21" />
+		<!-- battlefield_territory -->
+		<node x="42768" y="109156" />
+		<node x="44460" y="107584" />
+		<node x="47219" y="108081" />
+		<node x="48281" y="109544" />
+		<node x="47600" y="112400" />
+		<node x="44092" y="113504" />
+		<node x="43180" y="112736" />
+	</zone>
+	<zone shape="NPoly" minZ="-2634" maxZ="366"><!-- devastated_castle -->
+		<stat name="clanHallId" val="34" />
+		<!-- battlefield_territory -->
+		<node x="176367" y="-19559" />
+		<node x="180367" y="-19559" />
+		<node x="180367" y="-13059" />
+		<node x="176367" y="-13059" />
+	</zone>
+	<zone shape="NPoly" minZ="-2920" maxZ="80"><!-- bandits_stronghold -->
+		<stat name="clanHallId" val="35" />
+		<!-- battlefield_territory -->
+		<node x="79028" y="-17588" />
+		<node x="84640" y="-19528" />
+		<node x="86952" y="-16888" />
+		<node x="83636" y="-13448" />
+		<node x="79196" y="-13584" />
+	</zone>
+	<zone shape="NPoly" minZ="-2460" maxZ="-1860"><!-- rainbow_spring -->
+		<stat name="clanHallId" val="62" />
+		<!-- battlefield_territory -->
+		<node x="150253" y="-127587" />
+		<node x="154061" y="-128780" />
+		<node x="157203" y="-125699" />
+		<node x="154870" y="-123511" />
+		<node x="150933" y="-124975" />
+	</zone>
+	<zone shape="NPoly" minZ="-1407" maxZ="-907"><!-- beast_farm_guildhall -->
+		<stat name="clanHallId" val="63" />
+		<!-- battlefield_territory -->
+		<node x="59997" y="-96111" />
+		<node x="61969" y="-92430" />
+		<node x="58303" y="-89937" />
+		<node x="55402" y="-91364" />
+		<node x="55254" y="-92999" />
+		<node x="55344" y="-93295" />
+		<node x="56049" y="-94619" />
+	</zone>
+	<zone shape="NPoly" minZ="-193" maxZ="1687"><!-- fortress_of_dead -->
+		<stat name="clanHallId" val="64" />
+		<!-- battlefield_territory -->
+		<node x="59775" y="-31402" />
+		<node x="61052" y="-28295" />
+		<node x="60391" y="-25395" />
+		<node x="56108" y="-25117" />
+		<node x="55018" y="-27310" />
+		<node x="57221" y="-31878" />
+	</zone>
+</list>
