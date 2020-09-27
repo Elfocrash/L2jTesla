@@ -741,10 +741,12 @@ class AdminAutobots : IAdminCommandHandler {
 
                         val bots = ViewStates.indexViewState(activeChar).selectedBots.filter { it.value.isOnline }
 
-                        CoScopes.massDespawnerScope.launch {
+                        CoScopes.generalScope.launch {
                             bots.forEach {
-                                val autobot = AutobotsManager.activeBots.getOrDefault(it.value.name, null) ?: return@forEach
-                                AdminActions.despawnAutobot(autobot)
+                                innerLaunch@CoScopes.massDespawnerScope.launch {
+                                    val autobot = AutobotsManager.activeBots.getOrDefault(it.value.name, null) ?: return@innerLaunch
+                                    AdminActions.despawnAutobot(autobot)
+                                }
                             }
                         }
                         ViewStates.indexViewState(activeChar).selectedBots.clear()
